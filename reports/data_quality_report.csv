@@ -1,0 +1,15 @@
+table_name,rule_name,status,failed_count,comment
+customers,customer_id_not_null,PASS,0,Customer ID must not be null
+customers,customer_id_unique,FAIL,1,Customer ID must be unique
+customers,email_valid_format,FAIL,2,Email must follow a valid format
+customers,first_name_not_null,FAIL,1,First name should not be null
+products,product_id_unique,PASS,0,Product ID must be unique
+products,price_positive,FAIL,1,Price must be strictly positive
+products,category_not_null,FAIL,1,Category should not be null
+products,stock_non_negative,FAIL,1,Stock cannot be negative
+orders,order_id_unique,FAIL,1,Order ID must be unique
+orders,quantity_positive,FAIL,1,Quantity must be greater than zero
+orders,total_amount_non_negative,FAIL,14,Total amount cannot be negative
+orders,payment_method_not_null,FAIL,1,Payment method should not be null
+orders,customer_fk_valid,FAIL,1,Every customer_id in orders must exist in customers
+orders,product_fk_valid,FAIL,1,Every product_id in orders must exist in products

@@ -1,0 +1,482 @@
+order_id,customer_id,product_id,quantity,order_date,payment_method,status,total_amount,first_name,last_name,email_hash,city,country,product_name,category,price
+ORD00001,CUST0085,PROD005,5,2025-04-16,Card,Pending,723.5,Grégoire,Dumont,c9e054fa08df6d54c43fc57b85bd168dad75313dde3497d00fa3d99af76a158e,Humbert-sur-Lemoine,France,Jeans Item 5,Shoes,144.7
+ORD00002,CUST0172,PROD032,2,2025-04-07,Wire Transfer,Completed,73.54,David,Nicolas,3a665c67da74659ca1a70750b9f3b463f9a37a9fc51959ed8cbe7b58ba002190,Buisson-sur-Mer,France,Accessories Item 32,Accessories,36.77
+ORD00003,CUST0186,PROD037,5,2025-08-09,PayPal,Completed,1194.2,Gabriel,Pages,b8597d52b8a287f5efaf80ad20d8f8ddd5a37f485a7c9c528d11ba75cf84a356,Sainte Christiane,France,Bags Item 37,Jeans,238.84
+ORD00004,CUST0122,PROD027,2,2026-02-14,Card,Completed,256.88,Adrien,Guyot,4844744996d415759270469eb4ef9edceb044ca1ba9e7bbe9b3c8c980f2e1e8a,Legendredan,France,Bags Item 27,Jeans,128.44
+ORD00005,CUST0169,PROD028,3,2025-10-23,PayPal,Pending,140.04,Lucy,Barre,dabe3e35c3f947f26e6b79759abdafc29962fd44752b8fa68070c7fa646ca01a,Guyot,France,Shoes Item 28,Shoes,46.68
+ORD00006,CUST0120,PROD047,1,2025-10-03,Wire Transfer,Cancelled,63.93,Jérôme,Antoine,10ae5af9100c4aebf9a19a804e3a8a5c48c08669a386a44c1f772f642fb6cc23,Saint Zoé,France,Shoes Item 47,Bags,63.93
+ORD00007,CUST0166,PROD007,1,2026-02-04,PayPal,Cancelled,192.11,Simone,Paris,51deab053ae1895478aa796a429e7051cee66f11d212aae61c6316c19e176479,LopesBourg,France,Accessories Item 7,Shoes,192.11
+ORD00009,CUST0138,PROD029,2,2025-11-01,PayPal,Completed,50.5,Philippine,Lesage,c7466c0b0851ea7a65cfcf0b81bae123fb457b50322994593fd7cfc091e25ee0,Saint Hélène,France,Jackets Item 29,Jeans,25.25
+ORD00010,CUST0072,PROD030,2,2025-12-19,Card,Pending,273.98,Noël,Chauvin,4e1ca7c298891228931d6f938a62d936f9660c0aa69408ff2ab6c3b8fb497b34,Ponsdan,France,Jeans Item 30,Jackets,136.99
+ORD00011,CUST0141,PROD007,1,2026-01-24,Wire Transfer,Cancelled,192.11,Susanne,Rousseau,904486c2641443e71dae410b94fc83e3790fa55a1514e49ca61fb9797eb7779f,LegendreVille,France,Accessories Item 7,Shoes,192.11
+ORD00012,CUST0004,PROD006,2,2025-12-17,Card,Pending,125.82,Bernadette,Meunier,4f36c1fa86dc1bf660cbd6c9462397ed0ee0b362b72428a504901f34df9083f3,Hardyboeuf,France,Jeans Item 6,Jackets,62.91
+ORD00013,CUST0125,PROD031,2,2025-10-12,PayPal,Completed,347.22,Jean,Daniel,069e0c7728403cb649f7b3049207b3fdd465da654fde2683e65098ed700aa455,Laine-les-Bains,France,Shoes Item 31,Shoes,173.61
+ORD00014,CUST0043,PROD025,1,2025-04-20,PayPal,Pending,73.06,Julie,Camus,f547c52854c751b459f1340c17e7e7c1f79c1f99a627d7c108681767b3216cfa,Sainte Alphonsenec,France,Jeans Item 25,Jeans,73.06
+ORD00015,CUST0117,PROD019,4,2025-10-13,Wire Transfer,Cancelled,196.88,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jeans Item 19,Bags,49.22
+ORD00016,CUST0143,PROD043,4,2025-06-25,Card,Completed,294.44,Gabriel,Paul,ebd2d593cdcdc8c12ab47a9ce151b0c181bb9c9b66d2938a7c4ce4026a8ce14d,Moreno,France,Jeans Item 43,Bags,73.61
+ORD00017,CUST0076,PROD014,1,2025-09-23,Wire Transfer,Cancelled,168.7,Pauline,Paul,f0420751488e581151344160a7045073b30767fadd70596734a5427e36dda3e9,Carpentier,France,Shoes Item 14,Shoes,168.7
+ORD00020,CUST0015,PROD033,1,2025-04-01,Card,Completed,10.78,Suzanne,Costa,dc84d2f1febe231743df3bb5c3621ce77e9e8c83332b9fcd34e1d92fa50c59e3,Saint Zoé,France,Bags Item 33,Jackets,10.78
+ORD00021,CUST0153,PROD005,2,2025-10-16,PayPal,Completed,289.4,Étienne,Fournier,ca868a0bb80b812762978a3be111b85705713ae39c0584512f099fd574afcd60,Sainte Suzanne-la-Forêt,France,Jeans Item 5,Shoes,144.7
+ORD00022,CUST0146,PROD016,5,2025-04-26,Wire Transfer,Completed,594.1,Marc,Philippe,f78340e596c44189efd2e608c934e5375e9242443cb9fd834503ac1eb92c16ab,Besson-la-Forêt,France,Jackets Item 16,Accessories,118.82
+ORD00023,CUST0159,PROD006,4,2026-02-13,Wire Transfer,Cancelled,251.64,Gilles,David,b01386eec7a7cad105da2384f46bd8e9cf969375a61af68adef31f53bbe99d82,Briand,France,Jeans Item 6,Jackets,62.91
+ORD00024,CUST0145,PROD034,3,2025-10-17,PayPal,Completed,578.61,Agathe,Petitjean,cf2da985fc661e343950a2231fd5da1a6370110677608adec8522c1ea9baac6d,Renard-sur-Andre,France,Accessories Item 34,Jeans,192.87
+ORD00025,CUST0172,PROD046,3,2025-04-18,Card,Pending,677.73,David,Nicolas,3a665c67da74659ca1a70750b9f3b463f9a37a9fc51959ed8cbe7b58ba002190,Buisson-sur-Mer,France,Accessories Item 46,Jackets,225.91
+ORD00026,CUST0102,PROD009,3,2025-12-07,PayPal,Pending,96.78,Christelle,Étienne,d134f5a76791732cb6723d79045b67b142d51d646cc08974c6d86947cd11843c,Sainte OlivieVille,France,Accessories Item 9,Shoes,32.26
+ORD00027,CUST0193,PROD005,1,2025-04-11,PayPal,Cancelled,144.7,Nath,Paul,171f6e4e4f3b2e8400f94d187ac829474146d50ce8c54326dd8a3752f0d311dc,Pierre-la-Forêt,France,Jeans Item 5,Shoes,144.7
+ORD00028,CUST0145,PROD007,1,2025-08-20,Wire Transfer,Completed,192.11,Agathe,Petitjean,cf2da985fc661e343950a2231fd5da1a6370110677608adec8522c1ea9baac6d,Renard-sur-Andre,France,Accessories Item 7,Shoes,192.11
+ORD00029,CUST0130,PROD017,2,2025-06-20,PayPal,Completed,190.52,Joseph,Hardy,8b4d0b05b42883ef08f0daba77b4543d43a9b7ee76a851e25609defb9a84b115,Guillou,France,Bags Item 17,Accessories,95.26
+ORD00030,CUST0063,PROD024,3,2025-08-25,Card,Pending,220.71,Daniel,Bonnin,684e87f60efa3c1c697f9d74b47ad7576167c8839cdb3b0f1c4fa77e0a08dc7f,Dos Santos-sur-Lévy,France,Jackets Item 24,Bags,73.57
+ORD00031,CUST0140,PROD046,3,2025-04-13,Wire Transfer,Cancelled,677.73,Pauline,Lebreton,9c61ff17122eba57c98f077fb631ca13cb57ae86cb24c29e6ce3606024ac207a,Saint StéphanieBourg,France,Accessories Item 46,Jackets,225.91
+ORD00032,CUST0136,PROD001,5,2025-06-01,PayPal,Cancelled,939.85,Jules,Verdier,2c188ee4c796314826fc12721be6b9c2948badf83c3ee0da7be533c65c3c3d3a,Saint Patricia,France,Shoes Item 1,Shoes,187.97
+ORD00033,CUST0027,PROD009,3,2025-07-11,Card,Completed,96.78,Claire,Benoit,64090fe9c5b9b5fb473eb81e6ce63135e340b270bfe3fdc336c44d92c83cc2b3,Delattre,France,Accessories Item 9,Shoes,32.26
+ORD00034,CUST0191,PROD036,2,2026-01-29,PayPal,Pending,93.36,Étienne,Thierry,27fc1a5f1eb070651737ff60c106ba70012a5affeeda1c16416bfcea1608e5cd,Sainte Victoire,France,Jeans Item 36,Bags,46.68
+ORD00035,CUST0155,PROD014,3,2026-03-09,Card,Cancelled,506.1,Odette,Chartier,d910ed693ba90b7ecf3baf6357118cb0c40bd8b26505cb8b72dc85a414532674,Rodriguez,France,Shoes Item 14,Shoes,168.7
+ORD00036,CUST0163,PROD017,5,2025-10-05,PayPal,Pending,476.3,Hugues,Legrand,ba36edd56fc1acb9c9c61efa8f2748ef6d8a3a20662a881cd8ccf86705c5ff50,NicolasVille,France,Bags Item 17,Accessories,95.26
+ORD00037,CUST0014,PROD006,4,2025-07-16,PayPal,Completed,251.64,Julien,Seguin,f1047b9f52c4cd71c318c0e950458259c270e1d70a4dc09c2370e44d1e29b415,Guérin-sur-Maréchal,France,Jeans Item 6,Jackets,62.91
+ORD00038,CUST0001,PROD022,2,2025-12-04,Wire Transfer,Pending,51.78,ANONYMIZED,ANONYMIZED,6505c763b4ffc2342b6a39e095bc9ed04c4e96609eaf88a5517f44cb346378c8,Grégoire,France,Jackets Item 22,Accessories,25.89
+ORD00039,CUST0042,PROD048,4,2025-05-16,Wire Transfer,Cancelled,571.76,Antoine,Cordier,3f689ca10a1da12c7aad969a5e0c98faabfecd76b9cb32fb847a3a781f052c05,MenardBourg,France,Shoes Item 48,Jeans,142.94
+ORD00040,CUST0110,PROD036,1,2025-12-16,Card,Completed,46.68,Alice,Grégoire,fca505eb854eadff759ad339d814009c049b62f246f38dd7075727633766e5a7,Richard,France,Jeans Item 36,Bags,46.68
+ORD00041,CUST0177,PROD010,5,2025-08-31,Card,Pending,774.45,Éléonore,Allain,428cf60b6a982a4dc188069995a89d0f129962f8c25c68f68d13d1f0a672198e,Garcia-sur-Duval,France,Accessories Item 10,Accessories,154.89
+ORD00042,CUST0150,PROD036,2,2025-08-15,PayPal,Completed,93.36,Geneviève,Dumas,8880bb35768470a326fbb789cf6e90a802e42639943686d174227506b57c6fc0,Robert,France,Jeans Item 36,Bags,46.68
+ORD00043,CUST0011,PROD020,3,2025-08-07,Card,Pending,188.13,Manon,Legrand,a7714b4209e814204a71beac20cc3fe8edec782d59cac580b390a20adca0a6a7,Chauvin-la-Forêt,France,Accessories Item 20,Jeans,62.71
+ORD00044,CUST0054,PROD044,2,2025-09-20,Wire Transfer,Completed,465.88,Thierry,Laroche,f668a282ad3e833ec0eb3511e181abd6aedebde94bf1297b86b5230e53607868,Martel,France,Jackets Item 44,Bags,232.94
+ORD00045,CUST0091,PROD050,5,2025-08-25,PayPal,Cancelled,130.9,Laurent,Rey,77078ce6cafb91f42f00f197a216d199afdf344beed6f68ab7f2ba7bdd85335f,Camus-sur-Boulanger,France,Shoes Item 50,Bags,26.18
+ORD00046,CUST0192,PROD010,2,2025-09-02,Card,Completed,309.78,Antoine,Carlier,5242a7fc0961efab5e4c7513933d88ca12d140bb85ff737c03f4359f22881e1f,Blondelnec,France,Accessories Item 10,Accessories,154.89
+ORD00047,CUST0106,PROD002,2,2025-11-19,Wire Transfer,Pending,373.5,Nicole,Garnier,fcf4ebd2038ec98a4852e9c3b61ad50cff3d86661e3890daf44bdf58bcc2a6e1,Saint Marianne-les-Bains,France,Bags Item 2,Bags,186.75
+ORD00048,CUST0106,PROD043,2,2025-10-21,PayPal,Completed,147.22,Nicole,Garnier,fcf4ebd2038ec98a4852e9c3b61ad50cff3d86661e3890daf44bdf58bcc2a6e1,Saint Marianne-les-Bains,France,Jeans Item 43,Bags,73.61
+ORD00049,CUST0180,PROD007,4,2025-06-01,Card,Pending,768.44,Guillaume,Jean,037b752a13fe0eec5e80d18edc6340b09eeb0714c6d0c6f1d32c844843d037ec,Sainte Joseph,France,Accessories Item 7,Shoes,192.11
+ORD00050,CUST0057,PROD013,4,2025-05-03,PayPal,Pending,594.24,Isabelle,Renard,2a188e5c5d1b87f7ab75f1b672cd98680260b2806fdfcfb5af8a01bc76f42023,Cousin,France,Jeans Item 13,Accessories,148.56
+ORD00052,CUST0103,PROD022,3,2025-07-26,Card,Pending,77.67,Vincent,Blot,29f91114ef78946ee181b45ad3c21eb6b9b4ea41e841713c5f8bdc94cccc29c9,Besnard,France,Jackets Item 22,Accessories,25.89
+ORD00053,CUST0090,PROD042,5,2025-08-01,PayPal,Cancelled,204.05,Gabrielle,Millet,15deeffc2d2a5141a05eec868bed78559dbed99960f04277cb89c3a1cd75f8a2,Morel-sur-Caron,France,Jeans Item 42,Bags,40.81
+ORD00054,CUST0138,PROD022,1,2025-12-14,Card,Pending,25.89,Philippine,Lesage,c7466c0b0851ea7a65cfcf0b81bae123fb457b50322994593fd7cfc091e25ee0,Saint Hélène,France,Jackets Item 22,Accessories,25.89
+ORD00055,CUST0046,PROD038,3,2026-03-15,Card,Completed,263.4,Pierre,Dumas,12c017138df758c1ce20c836d831a6f3d492cec20386bd548e74d368b81c90f3,Vallet,France,Shoes Item 38,Jeans,87.8
+ORD00056,CUST0153,PROD028,3,2025-05-19,Wire Transfer,Pending,140.04,Étienne,Fournier,ca868a0bb80b812762978a3be111b85705713ae39c0584512f099fd574afcd60,Sainte Suzanne-la-Forêt,France,Shoes Item 28,Shoes,46.68
+ORD00057,CUST0112,PROD039,5,2025-07-28,Card,Pending,1104.45,Bernadette,Humbert,285e557a89795dd677e1447f9e6fd46689dc8fb579ad34b8a87f2a5a227d40ad,Grégoire,France,Shoes Item 39,Accessories,220.89
+ORD00058,CUST0148,PROD013,3,2026-02-03,Card,Cancelled,445.68,Margaux,Robin,d77d422c88a8e312baa2fb5659963c67e69237dbe6928bf9a8fe2f82b8200834,Martins,France,Jeans Item 13,Accessories,148.56
+ORD00059,CUST0112,PROD001,5,2026-01-08,Wire Transfer,Cancelled,939.85,Bernadette,Humbert,285e557a89795dd677e1447f9e6fd46689dc8fb579ad34b8a87f2a5a227d40ad,Grégoire,France,Shoes Item 1,Shoes,187.97
+ORD00060,CUST0185,PROD048,2,2026-02-13,PayPal,Pending,285.88,Marianne,Gaillard,48fbb7ba5c14d1eb78fa54d318450424a175e05e762cf851e2c316d5531c8966,Rollandnec,France,Shoes Item 48,Jeans,142.94
+ORD00061,CUST0018,PROD043,3,2025-10-27,Wire Transfer,Pending,220.83,Marguerite,Lefebvre,9ec26ca1f2946df9e1b44e8536bc9f8aa2f8301d70c65eff78f8284bb4b1f692,Bernier-sur-Mer,France,Jeans Item 43,Bags,73.61
+ORD00062,CUST0170,PROD008,3,2026-02-05,Wire Transfer,Pending,230.07,Suzanne,Brun,20ccc587f3d64eaecdd00defd2f32a368f101b5a15682cdc5683e25023cce49c,Vallet,France,Jackets Item 8,Accessories,76.69
+ORD00063,CUST0171,PROD027,3,2025-03-31,PayPal,Cancelled,385.32,Denise,Bertin,01c1a98a3e7c68bfaa7802b0d7e8bf09c5540ac507067eee335804f9f58bde17,Guillou-les-Bains,France,Bags Item 27,Jeans,128.44
+ORD00064,CUST0076,PROD036,2,2025-10-29,Card,Pending,93.36,Pauline,Paul,f0420751488e581151344160a7045073b30767fadd70596734a5427e36dda3e9,Carpentier,France,Jeans Item 36,Bags,46.68
+ORD00065,CUST0171,PROD025,2,2025-11-13,Wire Transfer,Cancelled,146.12,Denise,Bertin,01c1a98a3e7c68bfaa7802b0d7e8bf09c5540ac507067eee335804f9f58bde17,Guillou-les-Bains,France,Jeans Item 25,Jeans,73.06
+ORD00066,CUST0078,PROD026,5,2025-06-27,Card,Pending,529.3,Alphonse,Hubert,1b2ff452c4578561d74f08a5aa43aabe98f8bf3e42c9efca909493202314f9c6,Faure,France,Jackets Item 26,Jeans,105.86
+ORD00068,CUST0168,PROD021,4,2025-08-14,PayPal,Pending,828.92,Josette,De Oliveira,b029958f506c175f8620cf21b1f59c8660ee7996aa2bcf5a3d23cfef20de98f2,Alves-les-Bains,France,Shoes Item 21,Bags,207.23
+ORD00069,CUST0173,PROD014,5,2026-02-19,PayPal,Cancelled,843.5,Frédéric,Roux,b3b7e01d62cfb50e73da3d4b77cfa29a45a9f1378f71c0eaf483d3f412b17ddb,Sainte Pauline-les-Bains,France,Shoes Item 14,Shoes,168.7
+ORD00070,CUST0044,PROD043,1,2025-12-22,PayPal,Cancelled,73.61,Josette,Colin,9a7b1b7c5129a8d487302eb9e3c1317df55ee9758fa9d75fc12d42cb042bde07,PiresBourg,France,Jeans Item 43,Bags,73.61
+ORD00071,CUST0170,PROD041,5,2025-06-28,PayPal,Completed,928.3,Suzanne,Brun,20ccc587f3d64eaecdd00defd2f32a368f101b5a15682cdc5683e25023cce49c,Vallet,France,Shoes Item 41,Shoes,185.66
+ORD00072,CUST0193,PROD016,3,2025-06-20,Card,Completed,356.46,Nath,Paul,171f6e4e4f3b2e8400f94d187ac829474146d50ce8c54326dd8a3752f0d311dc,Pierre-la-Forêt,France,Jackets Item 16,Accessories,118.82
+ORD00073,CUST0038,PROD002,1,2025-03-31,Card,Pending,186.75,Catherine,Auger,1e6c0eb158291810b6a31b857440ec88ddadb573d94987f44257d5002e1696e9,Joseph,France,Bags Item 2,Bags,186.75
+ORD00074,CUST0157,PROD050,1,2025-11-20,PayPal,Pending,26.18,Luc,Lacombe,f406ceec2102d1776fc15407413db72549278bdb29fd20fb5e09026a2ea7ea5b,Saint AlexandriaBourg,France,Shoes Item 50,Bags,26.18
+ORD00075,CUST0162,PROD037,2,2025-07-09,Wire Transfer,Cancelled,477.68,Lorraine,Poirier,5177037910c4caacb921afb98ddd8665d447c57f81915d30646d7860b1e3a399,Faure,France,Bags Item 37,Jeans,238.84
+ORD00076,CUST0099,PROD032,4,2025-05-15,Card,Completed,147.08,Raymond,Lemonnier,502aed6dbf779e2ed81d98985908440d3428ceef33efaedaf81d4b7f4add82a5,Chrétiendan,France,Accessories Item 32,Accessories,36.77
+ORD00077,CUST0168,PROD045,1,2025-05-26,Card,Pending,105.76,Josette,De Oliveira,b029958f506c175f8620cf21b1f59c8660ee7996aa2bcf5a3d23cfef20de98f2,Alves-les-Bains,France,Bags Item 45,Accessories,105.76
+ORD00078,CUST0057,PROD012,5,2025-11-08,PayPal,Completed,401.8,Isabelle,Renard,2a188e5c5d1b87f7ab75f1b672cd98680260b2806fdfcfb5af8a01bc76f42023,Cousin,France,Shoes Item 12,Jeans,80.36
+ORD00079,CUST0143,PROD016,1,2025-06-09,PayPal,Completed,118.82,Gabriel,Paul,ebd2d593cdcdc8c12ab47a9ce151b0c181bb9c9b66d2938a7c4ce4026a8ce14d,Moreno,France,Jackets Item 16,Accessories,118.82
+ORD00080,CUST0119,PROD043,5,2025-08-29,Wire Transfer,Cancelled,368.05,Laurent,David,1d516fbba7ba11df47a95853936313776f32a85900d02245fae500d6706dca58,Leclerc,France,Jeans Item 43,Bags,73.61
+ORD00082,CUST0130,PROD028,5,2025-08-12,PayPal,Completed,233.4,Joseph,Hardy,8b4d0b05b42883ef08f0daba77b4543d43a9b7ee76a851e25609defb9a84b115,Guillou,France,Shoes Item 28,Shoes,46.68
+ORD00083,CUST0191,PROD031,4,2025-07-20,PayPal,Completed,694.44,Étienne,Thierry,27fc1a5f1eb070651737ff60c106ba70012a5affeeda1c16416bfcea1608e5cd,Sainte Victoire,France,Shoes Item 31,Shoes,173.61
+ORD00084,CUST0164,PROD018,5,2026-02-19,PayPal,Cancelled,780.95,Patricia,Leclerc,5a17475d8b4a4d823969a48e4dae08e836a88ed66d5d88b48aab8530549335da,Hoarauboeuf,France,Accessories Item 18,Shoes,156.19
+ORD00085,CUST0062,PROD018,4,2025-04-06,Card,Cancelled,624.76,Léon,Brunet,082881c5bb84550e3f0fe9cb8ff855a0d700102f9b88869cda9bd6d120a371e5,Vidalboeuf,France,Accessories Item 18,Shoes,156.19
+ORD00086,CUST0074,PROD016,3,2025-12-19,PayPal,Pending,356.46,Renée,Jourdan,f3cad7199fde6771bfc521a0b23ebacfa10656f899391cce68de5eef66d01935,Munoz,France,Jackets Item 16,Accessories,118.82
+ORD00087,CUST0139,PROD006,2,2025-05-03,Card,Completed,125.82,Isaac,Roy,a5d9bdef0d7c21119fdefe20e3771e9cbc8d275c6f4351c6d17592b7374d8a73,Pichon-la-Forêt,France,Jeans Item 6,Jackets,62.91
+ORD00088,CUST0099,PROD045,2,2026-02-28,Wire Transfer,Completed,211.52,Raymond,Lemonnier,502aed6dbf779e2ed81d98985908440d3428ceef33efaedaf81d4b7f4add82a5,Chrétiendan,France,Bags Item 45,Accessories,105.76
+ORD00089,CUST0017,PROD027,4,2025-10-16,PayPal,Cancelled,513.76,Chantal,Dias,a18c58e83ebb95ea8e936f3a14ca497a42b2021447b854b3be1b6e68e9bd2869,Guibert,France,Bags Item 27,Jeans,128.44
+ORD00090,CUST0120,PROD027,1,2025-06-19,Card,Pending,128.44,Jérôme,Antoine,10ae5af9100c4aebf9a19a804e3a8a5c48c08669a386a44c1f772f642fb6cc23,Saint Zoé,France,Bags Item 27,Jeans,128.44
+ORD00091,CUST0100,PROD050,5,2025-11-30,Wire Transfer,Completed,130.9,Éric,Lesage,7a7c1fa44eb281f3c153afc3bdcbae1806a7fe7a6f6e222445b715469e0a9da4,SimonVille,France,Shoes Item 50,Bags,26.18
+ORD00092,CUST0196,PROD037,4,2025-09-05,PayPal,Completed,955.36,Madeleine,Dupont,e4e3e969ee733ce4305cb6cac301e9a80c945034bc06a172786dc60f64212482,Hoarau-sur-Mer,France,Bags Item 37,Jeans,238.84
+ORD00093,CUST0091,PROD020,4,2025-03-28,PayPal,Cancelled,250.84,Laurent,Rey,77078ce6cafb91f42f00f197a216d199afdf344beed6f68ab7f2ba7bdd85335f,Camus-sur-Boulanger,France,Accessories Item 20,Jeans,62.71
+ORD00094,CUST0192,PROD048,5,2025-09-22,Wire Transfer,Completed,714.7,Antoine,Carlier,5242a7fc0961efab5e4c7513933d88ca12d140bb85ff737c03f4359f22881e1f,Blondelnec,France,Shoes Item 48,Jeans,142.94
+ORD00095,CUST0125,PROD015,3,2025-10-27,PayPal,Pending,645.84,Jean,Daniel,069e0c7728403cb649f7b3049207b3fdd465da654fde2683e65098ed700aa455,Laine-les-Bains,France,Accessories Item 15,Shoes,215.28
+ORD00096,CUST0008,PROD025,3,2026-01-11,Wire Transfer,Cancelled,219.18,Émilie,Normand,28cff725e0e51e1e0341b56ad4d03dbe07b4dcb344741acbc48bb076880f34bd,Masson,France,Jeans Item 25,Jeans,73.06
+ORD00097,CUST0104,PROD047,2,2025-11-17,PayPal,Completed,127.86,Luc,Benoit,01da11c26a5d8784bc6d2e9408778f303a91c509fe55faa09a03d675df165b5e,Coste,France,Shoes Item 47,Bags,63.93
+ORD00098,CUST0160,PROD035,1,2025-05-26,PayPal,Cancelled,212.0,Océane,Marques,bbd95a22656d1faa1d150b081cf47346669fafe95d242b492433e156f7bfa6c5,Lacroix,France,Shoes Item 35,Accessories,212.0
+ORD00099,CUST0145,PROD043,1,2025-09-30,Card,Cancelled,73.61,Agathe,Petitjean,cf2da985fc661e343950a2231fd5da1a6370110677608adec8522c1ea9baac6d,Renard-sur-Andre,France,Jeans Item 43,Bags,73.61
+ORD00100,CUST0110,PROD009,4,2025-07-05,Card,Completed,129.04,Alice,Grégoire,fca505eb854eadff759ad339d814009c049b62f246f38dd7075727633766e5a7,Richard,France,Accessories Item 9,Shoes,32.26
+ORD00101,CUST0067,PROD025,3,2025-04-29,Card,Pending,219.18,Olivie,Laurent,6af1f501d5b7a9cc2daa2fe206d9836499e1add6908fc22053792f3c3ddba5fd,Saint William,France,Jeans Item 25,Jeans,73.06
+ORD00102,CUST0084,PROD022,4,2025-07-10,PayPal,Pending,103.56,Bernadette,Letellier,2975bfc2e29f8ee19ba7cd1f596da8fae62cf4310b8a4029c6c7a75552b84e1d,Noël,France,Jackets Item 22,Accessories,25.89
+ORD00103,CUST0065,PROD006,4,2025-07-04,Card,Cancelled,251.64,Édouard,Legros,013dab629b81ba048b9fc0a628495be677f108ee873153020fe928315b7d0c96,Dupontnec,France,Jeans Item 6,Jackets,62.91
+ORD00105,CUST0018,PROD050,1,2026-01-23,Card,Completed,26.18,Marguerite,Lefebvre,9ec26ca1f2946df9e1b44e8536bc9f8aa2f8301d70c65eff78f8284bb4b1f692,Bernier-sur-Mer,France,Shoes Item 50,Bags,26.18
+ORD00106,CUST0052,PROD002,5,2025-04-27,Card,Completed,933.75,Sébastien,Delahaye,97fa5906a638d59fb4ee9bf6a12008b7f5430015a7b7145514a72a42666caccc,Nguyen,France,Bags Item 2,Bags,186.75
+ORD00107,CUST0033,PROD031,1,2025-10-16,Wire Transfer,Completed,173.61,Louise,Dos Santos,8f2f9efd39a467ba0013d4b9adab118fd01f0b13011023254a2e402aa2de10fb,Collin,France,Shoes Item 31,Shoes,173.61
+ORD00108,CUST0120,PROD045,3,2025-08-20,PayPal,Completed,317.28,Jérôme,Antoine,10ae5af9100c4aebf9a19a804e3a8a5c48c08669a386a44c1f772f642fb6cc23,Saint Zoé,France,Bags Item 45,Accessories,105.76
+ORD00109,CUST0156,PROD039,1,2025-08-12,Card,Pending,220.89,Daniel,Lacroix,1981fc1f85e648596e4366219ad7250c7974ea2f29277ab2025533293f91d9fb,LaurentVille,France,Shoes Item 39,Accessories,220.89
+ORD00110,CUST0028,PROD038,1,2025-03-30,PayPal,Cancelled,87.8,Adrien,Denis,2ffbd5ebd8ba363fbd09bff51bab92e2a0dc2c3d4a99b9fc268392fb624db2dc,Briand,France,Shoes Item 38,Jeans,87.8
+ORD00111,CUST0174,PROD025,4,2026-01-15,Wire Transfer,Completed,292.24,Zoé,David,cbb5c79bf9b36ef9bf959f8cb325517afb35af7b3945acf46ed4656682f64708,Bonnet,France,Jeans Item 25,Jeans,73.06
+ORD00112,CUST0020,PROD038,2,2025-05-12,Card,Cancelled,175.6,Marguerite,Chevallier,8a4d010e974b370a21f2f714fba011cfe8e30e68650f403c5c43f400fa85388b,Bessonnec,France,Shoes Item 38,Jeans,87.8
+ORD00113,CUST0198,PROD020,5,2025-05-07,Card,Cancelled,313.55,Lucy,Benoit,49a5065a7692175987de9c2914ee4498f5bd2c6bef3f6e695aced5f92b610874,Salmon-sur-Merle,France,Accessories Item 20,Jeans,62.71
+ORD00114,CUST0011,PROD023,5,2025-07-06,PayPal,Cancelled,836.55,Manon,Legrand,a7714b4209e814204a71beac20cc3fe8edec782d59cac580b390a20adca0a6a7,Chauvin-la-Forêt,France,Accessories Item 23,Bags,167.31
+ORD00115,CUST0095,PROD005,5,2025-09-24,Wire Transfer,Pending,723.5,Véronique,Laroche,d84274e631072842e258f57611f0be9a37b8537b14276be64a01e2eddfb4b01e,Laine,France,Jeans Item 5,Shoes,144.7
+ORD00116,CUST0004,PROD027,4,2025-04-15,Card,Pending,513.76,Bernadette,Meunier,4f36c1fa86dc1bf660cbd6c9462397ed0ee0b362b72428a504901f34df9083f3,Hardyboeuf,France,Bags Item 27,Jeans,128.44
+ORD00117,CUST0093,PROD041,4,2025-10-18,Wire Transfer,Completed,742.64,Eugène,Louis,21849e3a3e75fba4e75ee6ae4b5108b7d122930cf2203924afa3098d0c76750e,Sainte Pénélopeboeuf,France,Shoes Item 41,Shoes,185.66
+ORD00118,CUST0112,PROD012,5,2025-08-23,Wire Transfer,Pending,401.8,Bernadette,Humbert,285e557a89795dd677e1447f9e6fd46689dc8fb579ad34b8a87f2a5a227d40ad,Grégoire,France,Shoes Item 12,Jeans,80.36
+ORD00119,CUST0158,PROD035,4,2025-10-16,PayPal,Pending,848.0,Michel,Guérin,8c7c58669a222b5946eb17675c19b10b19401a2207824d73b60ac3c3f317da9d,MendèsBourg,France,Shoes Item 35,Accessories,212.0
+ORD00120,CUST0188,PROD038,3,2026-02-04,PayPal,Completed,263.4,Céline,Valette,debbaf88610f6f89709cc1981462a539484cbdb9424e04d899e89f02067aca3e,Lemoine,France,Shoes Item 38,Jeans,87.8
+ORD00122,CUST0146,PROD040,4,2025-07-11,PayPal,Completed,271.24,Marc,Philippe,f78340e596c44189efd2e608c934e5375e9242443cb9fd834503ac1eb92c16ab,Besson-la-Forêt,France,Bags Item 40,Shoes,67.81
+ORD00123,CUST0127,PROD021,2,2026-03-02,PayPal,Completed,414.46,Roger,Allain,7e57fb060358036426ef21e9ddbb9129f407104231236124f6ab12555ad12fa4,Lacombe-sur-Chauvin,France,Shoes Item 21,Bags,207.23
+ORD00124,CUST0091,PROD017,3,2025-07-08,PayPal,Cancelled,285.78,Laurent,Rey,77078ce6cafb91f42f00f197a216d199afdf344beed6f68ab7f2ba7bdd85335f,Camus-sur-Boulanger,France,Bags Item 17,Accessories,95.26
+ORD00125,CUST0180,PROD018,5,2026-03-14,Card,Cancelled,780.95,Guillaume,Jean,037b752a13fe0eec5e80d18edc6340b09eeb0714c6d0c6f1d32c844843d037ec,Sainte Joseph,France,Accessories Item 18,Shoes,156.19
+ORD00126,CUST0049,PROD006,2,2025-05-12,Wire Transfer,Pending,125.82,Adélaïde,Hamon,9373911d4c3c83a936ab93f24b8cc369c2ca249659a5673255313d71b2d61f93,Lemaire,France,Jeans Item 6,Jackets,62.91
+ORD00127,CUST0126,PROD036,2,2025-10-29,Wire Transfer,Pending,93.36,Susanne,Hebert,7b7e8804d90717e067fda2cd16bf870309d8839c6d5fb23838753a62fa028cfd,Sainte Luce,France,Jeans Item 36,Bags,46.68
+ORD00128,CUST0166,PROD046,4,2025-06-28,PayPal,Completed,903.64,Simone,Paris,51deab053ae1895478aa796a429e7051cee66f11d212aae61c6316c19e176479,LopesBourg,France,Accessories Item 46,Jackets,225.91
+ORD00129,CUST0024,PROD019,2,2025-03-22,PayPal,Cancelled,98.44,Marthe,Bruneau,8bba69ecdf91a3c0cc2d9d3900f4a37e6ac2c05edec158f5c2d4e4f958333e48,Chartier,France,Jeans Item 19,Bags,49.22
+ORD00130,CUST0063,PROD020,5,2025-11-22,PayPal,Pending,313.55,Daniel,Bonnin,684e87f60efa3c1c697f9d74b47ad7576167c8839cdb3b0f1c4fa77e0a08dc7f,Dos Santos-sur-Lévy,France,Accessories Item 20,Jeans,62.71
+ORD00131,CUST0142,PROD034,3,2025-03-21,PayPal,Cancelled,578.61,Roland,Didier,ffc6250087f8bb2ad30d878e56b2bfabb8354a6b040749529fa8b586526265f8,ArnaudVille,France,Accessories Item 34,Jeans,192.87
+ORD00132,CUST0141,PROD022,3,2025-09-14,Wire Transfer,Pending,77.67,Susanne,Rousseau,904486c2641443e71dae410b94fc83e3790fa55a1514e49ca61fb9797eb7779f,LegendreVille,France,Jackets Item 22,Accessories,25.89
+ORD00133,CUST0070,PROD020,3,2025-09-12,Card,Completed,188.13,Julie,Perrot,7133b4607fdbaea974af1c7e461f3eebc49335df3cc5f17bb1818739f89e9cd3,Sainte Marguerite,France,Accessories Item 20,Jeans,62.71
+ORD00134,CUST0185,PROD013,3,2025-12-15,Card,Cancelled,445.68,Marianne,Gaillard,48fbb7ba5c14d1eb78fa54d318450424a175e05e762cf851e2c316d5531c8966,Rollandnec,France,Jeans Item 13,Accessories,148.56
+ORD00135,CUST0138,PROD049,2,2025-11-03,Card,Completed,54.08,Philippine,Lesage,c7466c0b0851ea7a65cfcf0b81bae123fb457b50322994593fd7cfc091e25ee0,Saint Hélène,France,Bags Item 49,Shoes,27.04
+ORD00136,CUST0190,PROD031,3,2025-12-05,Wire Transfer,Cancelled,520.83,Vincent,Lamy,5111c58917bc0d74178cb0140e339fb222eb2e2b8e4f836daea9d431a0800776,Charpentier,France,Shoes Item 31,Shoes,173.61
+ORD00137,CUST0195,PROD034,5,2025-04-10,PayPal,Completed,964.35,Gilbert,Bouvier,9478869fbf5916f460469c8c2c1717a4fd9bb186d4a76089387022b9073dfe88,Arnaud,France,Accessories Item 34,Jeans,192.87
+ORD00138,CUST0050,PROD019,2,2025-07-13,PayPal,Completed,98.44,Jules,Lagarde,fe6e305ff89a56f26d52c78b73b44e12d73ddacf781dbe92425f40da3f19329a,Seguin-sur-Grondin,France,Jeans Item 19,Bags,49.22
+ORD00139,CUST0078,PROD001,5,2025-11-25,Card,Pending,939.85,Alphonse,Hubert,1b2ff452c4578561d74f08a5aa43aabe98f8bf3e42c9efca909493202314f9c6,Faure,France,Shoes Item 1,Shoes,187.97
+ORD00141,CUST0033,PROD041,4,2025-11-14,Card,Completed,742.64,Louise,Dos Santos,8f2f9efd39a467ba0013d4b9adab118fd01f0b13011023254a2e402aa2de10fb,Collin,France,Shoes Item 41,Shoes,185.66
+ORD00142,CUST0147,PROD019,4,2025-07-27,PayPal,Pending,196.88,Susanne,Riou,55fdb03cacc1c83e46c2166b9bbb03c544dcd89ee37c0e86ca1f0981e60e2a29,Royer-sur-Mahe,France,Jeans Item 19,Bags,49.22
+ORD00143,CUST0088,PROD012,1,2025-08-29,PayPal,Pending,80.36,Susanne,Lefebvre,327da520c78de2e5880369bea67df4e8852e9e745e04559f06391054a1b0e4fb,Sainte Olivier,France,Shoes Item 12,Jeans,80.36
+ORD00144,CUST0030,PROD005,4,2025-06-10,PayPal,Completed,578.8,Marc,Courtois,df9cad82267ca0ccea917e3e9918c994241481544301fc8fdc2e5b68a3f154ff,Millet,France,Jeans Item 5,Shoes,144.7
+ORD00145,CUST0148,PROD041,1,2026-03-09,Card,Completed,185.66,Margaux,Robin,d77d422c88a8e312baa2fb5659963c67e69237dbe6928bf9a8fe2f82b8200834,Martins,France,Shoes Item 41,Shoes,185.66
+ORD00146,CUST0145,PROD020,1,2025-06-25,Card,Completed,62.71,Agathe,Petitjean,cf2da985fc661e343950a2231fd5da1a6370110677608adec8522c1ea9baac6d,Renard-sur-Andre,France,Accessories Item 20,Jeans,62.71
+ORD00147,CUST0143,PROD049,4,2026-01-18,Wire Transfer,Cancelled,108.16,Gabriel,Paul,ebd2d593cdcdc8c12ab47a9ce151b0c181bb9c9b66d2938a7c4ce4026a8ce14d,Moreno,France,Bags Item 49,Shoes,27.04
+ORD00148,CUST0159,PROD015,5,2026-02-15,PayPal,Pending,1076.4,Gilles,David,b01386eec7a7cad105da2384f46bd8e9cf969375a61af68adef31f53bbe99d82,Briand,France,Accessories Item 15,Shoes,215.28
+ORD00149,CUST0114,PROD020,5,2025-03-20,PayPal,Pending,313.55,Anouk,Vallet,5e900f6cbe1ba93f7d37416476529fcb2b52822988bd4824a8b5dace4c582ce3,HoareauVille,France,Accessories Item 20,Jeans,62.71
+ORD00150,CUST0146,PROD040,1,2025-09-24,Wire Transfer,Cancelled,67.81,Marc,Philippe,f78340e596c44189efd2e608c934e5375e9242443cb9fd834503ac1eb92c16ab,Besson-la-Forêt,France,Bags Item 40,Shoes,67.81
+ORD00151,CUST0025,PROD049,2,2025-03-27,Wire Transfer,Completed,54.08,Camille,Roy,780a4c709c85adca14b7658bb5432d268fa553f31a1d97135900e3c7df5c2898,Mace,France,Bags Item 49,Shoes,27.04
+ORD00152,CUST0068,PROD043,1,2026-02-02,Card,Completed,73.61,Gilbert,Chauvin,7ba8b9445733a691d6187a42e003bf96018ab1fd99825ea69f4b916a4b5aa468,Vallet-la-Forêt,France,Jeans Item 43,Bags,73.61
+ORD00153,CUST0045,PROD036,1,2025-08-21,Card,Completed,46.68,Raymond,Moreau,724da09f7dbcc0c711f307ad854b1bf61cf02ed61a647251b152a63f96552b65,Langlois,France,Jeans Item 36,Bags,46.68
+ORD00154,CUST0105,PROD029,5,2025-05-30,PayPal,Pending,126.25,Luce,Launay,6a314a1dea8e21a6bc34c1dc6133ca04e50dea97390ca759011ef82b2e358791,Langlois,France,Jackets Item 29,Jeans,25.25
+ORD00155,CUST0009,PROD015,3,2025-06-25,Wire Transfer,Pending,645.84,Bernadette,Moreau,f8892fb67c28bed42031e3836862bd8c73401c74b31ac40b1df5883fda9e330c,Saint Alphonse-les-Bains,France,Accessories Item 15,Shoes,215.28
+ORD00156,CUST0180,PROD030,1,2026-01-03,Wire Transfer,Completed,136.99,Guillaume,Jean,037b752a13fe0eec5e80d18edc6340b09eeb0714c6d0c6f1d32c844843d037ec,Sainte Joseph,France,Jeans Item 30,Jackets,136.99
+ORD00157,CUST0068,PROD041,5,2026-01-29,Wire Transfer,Completed,928.3,Gilbert,Chauvin,7ba8b9445733a691d6187a42e003bf96018ab1fd99825ea69f4b916a4b5aa468,Vallet-la-Forêt,France,Shoes Item 41,Shoes,185.66
+ORD00158,CUST0109,PROD008,5,2025-09-20,Card,Cancelled,383.45,Charles,Blot,698f32110877b5f74946ed8cf23d3ca81b4ca7673f50eaf60cfcf1e3d3d83e5f,Mary,France,Jackets Item 8,Accessories,76.69
+ORD00159,CUST0039,PROD018,2,2025-04-21,Card,Completed,312.38,Julie,Marchal,3b3c6a6b3484d44b25846615dad98ea66e6aa57ff785f0b9b6b11fe7ae6c940f,De Sousa,France,Accessories Item 18,Shoes,156.19
+ORD00160,CUST0043,PROD020,5,2025-12-01,Wire Transfer,Cancelled,313.55,Julie,Camus,f547c52854c751b459f1340c17e7e7c1f79c1f99a627d7c108681767b3216cfa,Sainte Alphonsenec,France,Accessories Item 20,Jeans,62.71
+ORD00161,CUST0074,PROD029,1,2025-12-30,PayPal,Cancelled,25.25,Renée,Jourdan,f3cad7199fde6771bfc521a0b23ebacfa10656f899391cce68de5eef66d01935,Munoz,France,Jackets Item 29,Jeans,25.25
+ORD00162,CUST0078,PROD045,4,2025-11-29,PayPal,Cancelled,423.04,Alphonse,Hubert,1b2ff452c4578561d74f08a5aa43aabe98f8bf3e42c9efca909493202314f9c6,Faure,France,Bags Item 45,Accessories,105.76
+ORD00163,CUST0139,PROD032,4,2025-05-21,Card,Cancelled,147.08,Isaac,Roy,a5d9bdef0d7c21119fdefe20e3771e9cbc8d275c6f4351c6d17592b7374d8a73,Pichon-la-Forêt,France,Accessories Item 32,Accessories,36.77
+ORD00164,CUST0011,PROD028,3,2025-10-07,Wire Transfer,Pending,140.04,Manon,Legrand,a7714b4209e814204a71beac20cc3fe8edec782d59cac580b390a20adca0a6a7,Chauvin-la-Forêt,France,Shoes Item 28,Shoes,46.68
+ORD00165,CUST0007,PROD006,2,2025-11-17,Wire Transfer,Cancelled,125.82,Noémi,Masse,8e12f1fa5290142eeb8ccd0342be382e1ee358c7d941a2a3d6415fbafb831eef,BrunelBourg,France,Jeans Item 6,Jackets,62.91
+ORD00166,CUST0151,PROD002,3,2025-04-29,Wire Transfer,Completed,560.25,Claire,Leduc,3280c4d1b5260caf51e71ebde6a2129f6727a548b1b4717935a0f20b0901a948,Morvan-sur-Mer,France,Bags Item 2,Bags,186.75
+ORD00167,CUST0196,PROD049,2,2025-09-20,PayPal,Cancelled,54.08,Madeleine,Dupont,e4e3e969ee733ce4305cb6cac301e9a80c945034bc06a172786dc60f64212482,Hoarau-sur-Mer,France,Bags Item 49,Shoes,27.04
+ORD00168,CUST0167,PROD029,3,2025-11-19,Card,Cancelled,75.75,Julie,Richard,9d8698cbdbd0ae4dc2f4d7ce61521d140a501970acb447fb5adfa1707c93b9f3,Regnier,France,Jackets Item 29,Jeans,25.25
+ORD00169,CUST0112,PROD041,4,2025-03-25,Card,Pending,742.64,Bernadette,Humbert,285e557a89795dd677e1447f9e6fd46689dc8fb579ad34b8a87f2a5a227d40ad,Grégoire,France,Shoes Item 41,Shoes,185.66
+ORD00170,CUST0090,PROD027,3,2025-07-06,PayPal,Cancelled,385.32,Gabrielle,Millet,15deeffc2d2a5141a05eec868bed78559dbed99960f04277cb89c3a1cd75f8a2,Morel-sur-Caron,France,Bags Item 27,Jeans,128.44
+ORD00171,CUST0027,PROD011,3,2025-06-13,PayPal,Cancelled,119.88,Claire,Benoit,64090fe9c5b9b5fb473eb81e6ce63135e340b270bfe3fdc336c44d92c83cc2b3,Delattre,France,Jackets Item 11,Unknown,39.96
+ORD00172,CUST0127,PROD019,4,2025-05-15,Wire Transfer,Completed,196.88,Roger,Allain,7e57fb060358036426ef21e9ddbb9129f407104231236124f6ab12555ad12fa4,Lacombe-sur-Chauvin,France,Jeans Item 19,Bags,49.22
+ORD00173,CUST0117,PROD006,3,2025-08-03,PayPal,Pending,188.73,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jeans Item 6,Jackets,62.91
+ORD00174,CUST0030,PROD050,4,2025-05-20,Wire Transfer,Completed,104.72,Marc,Courtois,df9cad82267ca0ccea917e3e9918c994241481544301fc8fdc2e5b68a3f154ff,Millet,France,Shoes Item 50,Bags,26.18
+ORD00175,CUST0169,PROD035,4,2025-06-14,PayPal,Completed,848.0,Lucy,Barre,dabe3e35c3f947f26e6b79759abdafc29962fd44752b8fa68070c7fa646ca01a,Guyot,France,Shoes Item 35,Accessories,212.0
+ORD00176,CUST0049,PROD034,3,2025-05-07,Wire Transfer,Pending,578.61,Adélaïde,Hamon,9373911d4c3c83a936ab93f24b8cc369c2ca249659a5673255313d71b2d61f93,Lemaire,France,Accessories Item 34,Jeans,192.87
+ORD00177,CUST0161,PROD029,1,2026-02-07,Card,Pending,25.25,Adrien,Bonnin,6904f5aa746131f1e35004aec9faa9ccffee2150e5765c144d613db9db94fe7a,Martinez,France,Jackets Item 29,Jeans,25.25
+ORD00178,CUST0141,PROD009,3,2025-10-11,PayPal,Cancelled,96.78,Susanne,Rousseau,904486c2641443e71dae410b94fc83e3790fa55a1514e49ca61fb9797eb7779f,LegendreVille,France,Accessories Item 9,Shoes,32.26
+ORD00179,CUST0125,PROD008,1,2026-01-21,Wire Transfer,Cancelled,76.69,Jean,Daniel,069e0c7728403cb649f7b3049207b3fdd465da654fde2683e65098ed700aa455,Laine-les-Bains,France,Jackets Item 8,Accessories,76.69
+ORD00180,CUST0062,PROD046,2,2025-06-26,PayPal,Cancelled,451.82,Léon,Brunet,082881c5bb84550e3f0fe9cb8ff855a0d700102f9b88869cda9bd6d120a371e5,Vidalboeuf,France,Accessories Item 46,Jackets,225.91
+ORD00181,CUST0004,PROD036,4,2025-04-14,Card,Completed,186.72,Bernadette,Meunier,4f36c1fa86dc1bf660cbd6c9462397ed0ee0b362b72428a504901f34df9083f3,Hardyboeuf,France,Jeans Item 36,Bags,46.68
+ORD00182,CUST0030,PROD030,1,2025-12-01,Wire Transfer,Completed,136.99,Marc,Courtois,df9cad82267ca0ccea917e3e9918c994241481544301fc8fdc2e5b68a3f154ff,Millet,France,Jeans Item 30,Jackets,136.99
+ORD00183,CUST0128,PROD046,3,2025-05-01,Wire Transfer,Cancelled,677.73,Alix,Jacquot,2bf679c786562681f85c779e962afc55c11708508d595a72220b0423bd03b976,Morvan-sur-Gaudin,France,Accessories Item 46,Jackets,225.91
+ORD00184,CUST0070,PROD027,4,2025-03-31,PayPal,Completed,513.76,Julie,Perrot,7133b4607fdbaea974af1c7e461f3eebc49335df3cc5f17bb1818739f89e9cd3,Sainte Marguerite,France,Bags Item 27,Jeans,128.44
+ORD00185,CUST0117,PROD036,2,2025-04-20,PayPal,Completed,93.36,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jeans Item 36,Bags,46.68
+ORD00186,CUST0154,PROD033,2,2026-02-20,Card,Pending,21.56,Élodie,Vallet,b64af823ceb6e3086b69e722e47bc48978c383d397aa4a51537fc25f2c08d420,Briand,France,Bags Item 33,Jackets,10.78
+ORD00187,CUST0198,PROD027,3,2026-01-02,Wire Transfer,Pending,385.32,Lucy,Benoit,49a5065a7692175987de9c2914ee4498f5bd2c6bef3f6e695aced5f92b610874,Salmon-sur-Merle,France,Bags Item 27,Jeans,128.44
+ORD00188,CUST0001,PROD019,3,2025-08-04,Wire Transfer,Cancelled,147.66,ANONYMIZED,ANONYMIZED,6505c763b4ffc2342b6a39e095bc9ed04c4e96609eaf88a5517f44cb346378c8,Grégoire,France,Jeans Item 19,Bags,49.22
+ORD00189,CUST0169,PROD032,2,2026-03-07,PayPal,Cancelled,73.54,Lucy,Barre,dabe3e35c3f947f26e6b79759abdafc29962fd44752b8fa68070c7fa646ca01a,Guyot,France,Accessories Item 32,Accessories,36.77
+ORD00190,CUST0124,PROD023,3,2025-07-18,Wire Transfer,Cancelled,501.93,Franck,Langlois,72441a6d517fd15c903f94638bde1a1c3128e35439224416c0e1fa630e4c21c3,Lopes,France,Accessories Item 23,Bags,167.31
+ORD00191,CUST0097,PROD030,3,2025-04-08,Card,Cancelled,410.97,Philippe,Renault,e693f3e7506c359db2c0ac0330815a055352e370bd63d611abc8f766fdbe2c5b,Da Silva,France,Jeans Item 30,Jackets,136.99
+ORD00192,CUST0062,PROD037,4,2025-07-04,Card,Pending,955.36,Léon,Brunet,082881c5bb84550e3f0fe9cb8ff855a0d700102f9b88869cda9bd6d120a371e5,Vidalboeuf,France,Bags Item 37,Jeans,238.84
+ORD00193,CUST0012,PROD021,4,2025-04-07,Wire Transfer,Pending,828.92,Patricia,Lucas,7bfd767b41eff18cfe96e3fdecb4bc86da6f2a03303b03558860185e0d2fe67b,Sainte Brigitte,France,Shoes Item 21,Bags,207.23
+ORD00194,CUST0099,PROD043,2,2025-11-28,PayPal,Completed,147.22,Raymond,Lemonnier,502aed6dbf779e2ed81d98985908440d3428ceef33efaedaf81d4b7f4add82a5,Chrétiendan,France,Jeans Item 43,Bags,73.61
+ORD00195,CUST0033,PROD033,5,2025-07-04,PayPal,Completed,53.9,Louise,Dos Santos,8f2f9efd39a467ba0013d4b9adab118fd01f0b13011023254a2e402aa2de10fb,Collin,France,Bags Item 33,Jackets,10.78
+ORD00196,CUST0113,PROD007,5,2025-08-21,PayPal,Completed,960.55,Margaud,Ferrand,29cb8c4310c24e5b776d1554c94e8cab76bfe130820005e423d2cdfe9ef1889b,Saint Lucie-la-Forêt,France,Accessories Item 7,Shoes,192.11
+ORD00197,CUST0185,PROD010,4,2026-03-14,Wire Transfer,Completed,619.56,Marianne,Gaillard,48fbb7ba5c14d1eb78fa54d318450424a175e05e762cf851e2c316d5531c8966,Rollandnec,France,Accessories Item 10,Accessories,154.89
+ORD00198,CUST0020,PROD031,3,2026-02-09,PayPal,Cancelled,520.83,Marguerite,Chevallier,8a4d010e974b370a21f2f714fba011cfe8e30e68650f403c5c43f400fa85388b,Bessonnec,France,Shoes Item 31,Shoes,173.61
+ORD00199,CUST0178,PROD026,1,2025-07-27,PayPal,Cancelled,105.86,Gilbert,Legros,8dfdcc8872cc44b779ba0b786754928507ae58f4bba50249b96f9aa6dcd6a912,Paul,France,Jackets Item 26,Jeans,105.86
+ORD00200,CUST0137,PROD025,3,2025-06-21,Wire Transfer,Cancelled,219.18,Margaret,Humbert,eee95e4e56b9de08fb0e2d635cc3fe67f12b5579462d17cdc32e45ddc7af2d64,Lebreton,France,Jeans Item 25,Jeans,73.06
+ORD00201,CUST0195,PROD032,5,2025-04-11,Card,Cancelled,183.85,Gilbert,Bouvier,9478869fbf5916f460469c8c2c1717a4fd9bb186d4a76089387022b9073dfe88,Arnaud,France,Accessories Item 32,Accessories,36.77
+ORD00202,CUST0018,PROD016,3,2025-04-29,Card,Cancelled,356.46,Marguerite,Lefebvre,9ec26ca1f2946df9e1b44e8536bc9f8aa2f8301d70c65eff78f8284bb4b1f692,Bernier-sur-Mer,France,Jackets Item 16,Accessories,118.82
+ORD00203,CUST0024,PROD028,1,2026-03-12,Wire Transfer,Cancelled,46.68,Marthe,Bruneau,8bba69ecdf91a3c0cc2d9d3900f4a37e6ac2c05edec158f5c2d4e4f958333e48,Chartier,France,Shoes Item 28,Shoes,46.68
+ORD00204,CUST0025,PROD029,2,2026-01-30,Wire Transfer,Pending,50.5,Camille,Roy,780a4c709c85adca14b7658bb5432d268fa553f31a1d97135900e3c7df5c2898,Mace,France,Jackets Item 29,Jeans,25.25
+ORD00205,CUST0008,PROD003,3,2025-03-19,Card,Pending,455.16,Émilie,Normand,28cff725e0e51e1e0341b56ad4d03dbe07b4dcb344741acbc48bb076880f34bd,Masson,France,Jeans Item 3,Shoes,151.72
+ORD00206,CUST0092,PROD024,4,2025-05-12,Card,Completed,294.28,Bernard,Grenier,9bc70b05eb1f5bb25063d3363611c529477544186bf19ce29a0b80e915be5df9,Sainte Patrick,France,Jackets Item 24,Bags,73.57
+ORD00207,CUST0136,PROD027,5,2025-07-10,Wire Transfer,Completed,642.2,Jules,Verdier,2c188ee4c796314826fc12721be6b9c2948badf83c3ee0da7be533c65c3c3d3a,Saint Patricia,France,Bags Item 27,Jeans,128.44
+ORD00208,CUST0044,PROD012,1,2025-12-20,Wire Transfer,Pending,80.36,Josette,Colin,9a7b1b7c5129a8d487302eb9e3c1317df55ee9758fa9d75fc12d42cb042bde07,PiresBourg,France,Shoes Item 12,Jeans,80.36
+ORD00209,CUST0159,PROD044,2,2026-01-17,PayPal,Cancelled,465.88,Gilles,David,b01386eec7a7cad105da2384f46bd8e9cf969375a61af68adef31f53bbe99d82,Briand,France,Jackets Item 44,Bags,232.94
+ORD00210,CUST0037,PROD015,4,2025-09-15,Wire Transfer,Pending,861.12,Paul,Vaillant,431a0d0272528e603287beae45825b13a4a6c73c2b74ae2ae94a5670c16984c2,Gérard,France,Accessories Item 15,Shoes,215.28
+ORD00211,CUST0118,PROD017,1,2026-01-10,PayPal,Pending,95.26,Marthe,Bouchet,b1424cbef952eb460cbcddcb1ed8a0a19786198e65d762f599d2ebc0529ed28c,CharrierBourg,France,Bags Item 17,Accessories,95.26
+ORD00212,CUST0174,PROD035,2,2025-07-08,Card,Pending,424.0,Zoé,David,cbb5c79bf9b36ef9bf959f8cb325517afb35af7b3945acf46ed4656682f64708,Bonnet,France,Shoes Item 35,Accessories,212.0
+ORD00213,CUST0089,PROD038,3,2026-01-27,Wire Transfer,Pending,263.4,Jacqueline,Blanchet,0530745328479b446454b94aa583a92cf93483386c9c26d0bafb3c0a3a745daf,Saint Astrid,France,Shoes Item 38,Jeans,87.8
+ORD00214,CUST0177,PROD017,4,2025-05-07,PayPal,Completed,381.04,Éléonore,Allain,428cf60b6a982a4dc188069995a89d0f129962f8c25c68f68d13d1f0a672198e,Garcia-sur-Duval,France,Bags Item 17,Accessories,95.26
+ORD00215,CUST0099,PROD031,1,2025-09-24,Card,Pending,173.61,Raymond,Lemonnier,502aed6dbf779e2ed81d98985908440d3428ceef33efaedaf81d4b7f4add82a5,Chrétiendan,France,Shoes Item 31,Shoes,173.61
+ORD00216,CUST0147,PROD023,5,2026-01-25,PayPal,Cancelled,836.55,Susanne,Riou,55fdb03cacc1c83e46c2166b9bbb03c544dcd89ee37c0e86ca1f0981e60e2a29,Royer-sur-Mahe,France,Accessories Item 23,Bags,167.31
+ORD00217,CUST0076,PROD002,4,2025-08-23,PayPal,Completed,747.0,Pauline,Paul,f0420751488e581151344160a7045073b30767fadd70596734a5427e36dda3e9,Carpentier,France,Bags Item 2,Bags,186.75
+ORD00218,CUST0145,PROD044,1,2026-02-09,Wire Transfer,Cancelled,232.94,Agathe,Petitjean,cf2da985fc661e343950a2231fd5da1a6370110677608adec8522c1ea9baac6d,Renard-sur-Andre,France,Jackets Item 44,Bags,232.94
+ORD00219,CUST0128,PROD019,2,2025-11-03,Wire Transfer,Pending,98.44,Alix,Jacquot,2bf679c786562681f85c779e962afc55c11708508d595a72220b0423bd03b976,Morvan-sur-Gaudin,France,Jeans Item 19,Bags,49.22
+ORD00220,CUST0057,PROD041,2,2026-01-01,Wire Transfer,Pending,371.32,Isabelle,Renard,2a188e5c5d1b87f7ab75f1b672cd98680260b2806fdfcfb5af8a01bc76f42023,Cousin,France,Shoes Item 41,Shoes,185.66
+ORD00221,CUST0174,PROD049,2,2025-12-27,Wire Transfer,Completed,54.08,Zoé,David,cbb5c79bf9b36ef9bf959f8cb325517afb35af7b3945acf46ed4656682f64708,Bonnet,France,Bags Item 49,Shoes,27.04
+ORD00222,CUST0161,PROD042,1,2025-08-21,PayPal,Pending,40.81,Adrien,Bonnin,6904f5aa746131f1e35004aec9faa9ccffee2150e5765c144d613db9db94fe7a,Martinez,France,Jeans Item 42,Bags,40.81
+ORD00223,CUST0009,PROD038,3,2025-03-18,Wire Transfer,Completed,263.4,Bernadette,Moreau,f8892fb67c28bed42031e3836862bd8c73401c74b31ac40b1df5883fda9e330c,Saint Alphonse-les-Bains,France,Shoes Item 38,Jeans,87.8
+ORD00224,CUST0024,PROD019,3,2025-12-03,Wire Transfer,Pending,147.66,Marthe,Bruneau,8bba69ecdf91a3c0cc2d9d3900f4a37e6ac2c05edec158f5c2d4e4f958333e48,Chartier,France,Jeans Item 19,Bags,49.22
+ORD00225,CUST0045,PROD013,2,2025-07-16,Wire Transfer,Pending,297.12,Raymond,Moreau,724da09f7dbcc0c711f307ad854b1bf61cf02ed61a647251b152a63f96552b65,Langlois,France,Jeans Item 13,Accessories,148.56
+ORD00226,CUST0136,PROD033,3,2026-02-21,Card,Pending,32.34,Jules,Verdier,2c188ee4c796314826fc12721be6b9c2948badf83c3ee0da7be533c65c3c3d3a,Saint Patricia,France,Bags Item 33,Jackets,10.78
+ORD00227,CUST0124,PROD019,3,2026-01-06,Card,Pending,147.66,Franck,Langlois,72441a6d517fd15c903f94638bde1a1c3128e35439224416c0e1fa630e4c21c3,Lopes,France,Jeans Item 19,Bags,49.22
+ORD00228,CUST0020,PROD010,2,2025-07-07,Wire Transfer,Cancelled,309.78,Marguerite,Chevallier,8a4d010e974b370a21f2f714fba011cfe8e30e68650f403c5c43f400fa85388b,Bessonnec,France,Accessories Item 10,Accessories,154.89
+ORD00229,CUST0173,PROD026,5,2026-01-11,PayPal,Completed,529.3,Frédéric,Roux,b3b7e01d62cfb50e73da3d4b77cfa29a45a9f1378f71c0eaf483d3f412b17ddb,Sainte Pauline-les-Bains,France,Jackets Item 26,Jeans,105.86
+ORD00230,CUST0102,PROD001,3,2025-05-01,Wire Transfer,Completed,563.91,Christelle,Étienne,d134f5a76791732cb6723d79045b67b142d51d646cc08974c6d86947cd11843c,Sainte OlivieVille,France,Shoes Item 1,Shoes,187.97
+ORD00231,CUST0117,PROD024,3,2025-05-30,Wire Transfer,Pending,220.71,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jackets Item 24,Bags,73.57
+ORD00232,CUST0164,PROD024,1,2025-10-11,Wire Transfer,Completed,73.57,Patricia,Leclerc,5a17475d8b4a4d823969a48e4dae08e836a88ed66d5d88b48aab8530549335da,Hoarauboeuf,France,Jackets Item 24,Bags,73.57
+ORD00233,CUST0121,PROD002,5,2026-02-16,Wire Transfer,Pending,933.75,Julie,Barbe,9797478d1fa2609ae0d0f6885e903ecbf3e081ab7f318ef22a3b7c8db683e5d5,Duhamel,France,Bags Item 2,Bags,186.75
+ORD00234,CUST0157,PROD015,1,2026-02-24,Wire Transfer,Pending,215.28,Luc,Lacombe,f406ceec2102d1776fc15407413db72549278bdb29fd20fb5e09026a2ea7ea5b,Saint AlexandriaBourg,France,Accessories Item 15,Shoes,215.28
+ORD00235,CUST0180,PROD020,4,2025-09-08,Card,Completed,250.84,Guillaume,Jean,037b752a13fe0eec5e80d18edc6340b09eeb0714c6d0c6f1d32c844843d037ec,Sainte Joseph,France,Accessories Item 20,Jeans,62.71
+ORD00236,CUST0012,PROD003,3,2026-02-25,PayPal,Completed,455.16,Patricia,Lucas,7bfd767b41eff18cfe96e3fdecb4bc86da6f2a03303b03558860185e0d2fe67b,Sainte Brigitte,France,Jeans Item 3,Shoes,151.72
+ORD00237,CUST0025,PROD016,5,2025-12-22,Card,Pending,594.1,Camille,Roy,780a4c709c85adca14b7658bb5432d268fa553f31a1d97135900e3c7df5c2898,Mace,France,Jackets Item 16,Accessories,118.82
+ORD00238,CUST0117,PROD024,5,2025-11-09,PayPal,Cancelled,367.85,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jackets Item 24,Bags,73.57
+ORD00239,CUST0191,PROD047,2,2025-09-15,PayPal,Cancelled,127.86,Étienne,Thierry,27fc1a5f1eb070651737ff60c106ba70012a5affeeda1c16416bfcea1608e5cd,Sainte Victoire,France,Shoes Item 47,Bags,63.93
+ORD00240,CUST0025,PROD032,5,2026-03-10,PayPal,Pending,183.85,Camille,Roy,780a4c709c85adca14b7658bb5432d268fa553f31a1d97135900e3c7df5c2898,Mace,France,Accessories Item 32,Accessories,36.77
+ORD00241,CUST0009,PROD045,3,2025-04-15,Card,Pending,317.28,Bernadette,Moreau,f8892fb67c28bed42031e3836862bd8c73401c74b31ac40b1df5883fda9e330c,Saint Alphonse-les-Bains,France,Bags Item 45,Accessories,105.76
+ORD00242,CUST0114,PROD016,3,2026-03-09,Card,Cancelled,356.46,Anouk,Vallet,5e900f6cbe1ba93f7d37416476529fcb2b52822988bd4824a8b5dace4c582ce3,HoareauVille,France,Jackets Item 16,Accessories,118.82
+ORD00243,CUST0095,PROD035,3,2025-10-27,Card,Pending,636.0,Véronique,Laroche,d84274e631072842e258f57611f0be9a37b8537b14276be64a01e2eddfb4b01e,Laine,France,Shoes Item 35,Accessories,212.0
+ORD00244,CUST0071,PROD013,1,2025-07-17,PayPal,Completed,148.56,Bernadette,Schneider,10f40500241e0bffec6db0c59846f38ca1ddd91b13d8fbfefc1d7620c1761e3e,Sainte Thibautnec,France,Jeans Item 13,Accessories,148.56
+ORD00245,CUST0170,PROD014,5,2025-05-01,Card,Completed,843.5,Suzanne,Brun,20ccc587f3d64eaecdd00defd2f32a368f101b5a15682cdc5683e25023cce49c,Vallet,France,Shoes Item 14,Shoes,168.7
+ORD00246,CUST0086,PROD016,2,2025-07-01,Wire Transfer,Completed,237.64,Danielle,Traore,a68759d896a2c5ba601b81b8706f728353a346be51920a836a8da1f35f79305c,Hoareau,France,Jackets Item 16,Accessories,118.82
+ORD00247,CUST0018,PROD049,5,2025-12-13,Card,Cancelled,135.2,Marguerite,Lefebvre,9ec26ca1f2946df9e1b44e8536bc9f8aa2f8301d70c65eff78f8284bb4b1f692,Bernier-sur-Mer,France,Bags Item 49,Shoes,27.04
+ORD00248,CUST0056,PROD015,3,2025-03-31,Card,Cancelled,645.84,Julien,Wagner,b8c52b6d4019885b2e355fff1b45dc9e8e24e2e6966c6d459222fe9c3c233b90,Sainte Madeleine,France,Accessories Item 15,Shoes,215.28
+ORD00249,CUST0001,PROD018,2,2025-11-14,Card,Cancelled,312.38,ANONYMIZED,ANONYMIZED,6505c763b4ffc2342b6a39e095bc9ed04c4e96609eaf88a5517f44cb346378c8,Grégoire,France,Accessories Item 18,Shoes,156.19
+ORD00250,CUST0065,PROD012,1,2025-08-13,Wire Transfer,Completed,80.36,Édouard,Legros,013dab629b81ba048b9fc0a628495be677f108ee873153020fe928315b7d0c96,Dupontnec,France,Shoes Item 12,Jeans,80.36
+ORD00251,CUST0034,PROD001,3,2026-03-15,Card,Cancelled,563.91,Claudine,Fernandes,8d8f13972ff124888b7253f56f0ff4ed1947858c90b47c9bee05fca0a47ed8d4,Marty-les-Bains,France,Shoes Item 1,Shoes,187.97
+ORD00252,CUST0083,PROD002,2,2025-08-21,PayPal,Completed,373.5,Franck,Coste,7dd1cde0620e0b339ab6e6b5590a3567638d2ed9b6721e8d62f983313263f10f,Lemaître,France,Bags Item 2,Bags,186.75
+ORD00253,CUST0033,PROD048,4,2025-07-07,Wire Transfer,Completed,571.76,Louise,Dos Santos,8f2f9efd39a467ba0013d4b9adab118fd01f0b13011023254a2e402aa2de10fb,Collin,France,Shoes Item 48,Jeans,142.94
+ORD00254,CUST0191,PROD005,4,2025-05-07,PayPal,Pending,578.8,Étienne,Thierry,27fc1a5f1eb070651737ff60c106ba70012a5affeeda1c16416bfcea1608e5cd,Sainte Victoire,France,Jeans Item 5,Shoes,144.7
+ORD00255,CUST0132,PROD038,1,2025-09-14,PayPal,Cancelled,87.8,Lucie,Fleury,587ae8ddd75920dd821f66a4c23800f3d01dab1f8c48447cd10ee3aedc09112a,Bernier-sur-Le Gall,France,Shoes Item 38,Jeans,87.8
+ORD00256,CUST0057,PROD040,1,2025-07-17,Wire Transfer,Cancelled,67.81,Isabelle,Renard,2a188e5c5d1b87f7ab75f1b672cd98680260b2806fdfcfb5af8a01bc76f42023,Cousin,France,Bags Item 40,Shoes,67.81
+ORD00257,CUST0134,PROD020,4,2025-09-05,Wire Transfer,Completed,250.84,Noël,Gilbert,849a681f46719e73c1f7b6b2a09c0ce66ffa238e2bbd28f642629b6e7b9fdc1a,Sainte Christellenec,France,Accessories Item 20,Jeans,62.71
+ORD00258,CUST0016,PROD031,4,2025-08-26,PayPal,Cancelled,694.44,François,Pierre,ca18bccb62ef4ba50bb1d2028365268a8e9153f0c866cddc99ac1270748e4e03,Dias-sur-Mer,France,Shoes Item 31,Shoes,173.61
+ORD00259,CUST0028,PROD032,4,2025-03-24,Card,Completed,147.08,Adrien,Denis,2ffbd5ebd8ba363fbd09bff51bab92e2a0dc2c3d4a99b9fc268392fb624db2dc,Briand,France,Accessories Item 32,Accessories,36.77
+ORD00260,CUST0083,PROD039,2,2025-11-29,Card,Completed,441.78,Franck,Coste,7dd1cde0620e0b339ab6e6b5590a3567638d2ed9b6721e8d62f983313263f10f,Lemaître,France,Shoes Item 39,Accessories,220.89
+ORD00261,CUST0071,PROD040,5,2025-08-28,Wire Transfer,Cancelled,339.05,Bernadette,Schneider,10f40500241e0bffec6db0c59846f38ca1ddd91b13d8fbfefc1d7620c1761e3e,Sainte Thibautnec,France,Bags Item 40,Shoes,67.81
+ORD00262,CUST0084,PROD025,5,2026-03-09,Wire Transfer,Pending,365.3,Bernadette,Letellier,2975bfc2e29f8ee19ba7cd1f596da8fae62cf4310b8a4029c6c7a75552b84e1d,Noël,France,Jeans Item 25,Jeans,73.06
+ORD00263,CUST0117,PROD033,5,2025-12-28,PayPal,Completed,53.9,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Bags Item 33,Jackets,10.78
+ORD00264,CUST0180,PROD008,5,2025-09-05,Wire Transfer,Completed,383.45,Guillaume,Jean,037b752a13fe0eec5e80d18edc6340b09eeb0714c6d0c6f1d32c844843d037ec,Sainte Joseph,France,Jackets Item 8,Accessories,76.69
+ORD00265,CUST0111,PROD029,2,2025-04-29,PayPal,Pending,50.5,Adélaïde,Bailly,48edbf34db8fbc2c7e0824acab3d744aab36036a57bbb5d76cb53e8b6d19978e,Saint Nathalie,France,Jackets Item 29,Jeans,25.25
+ORD00266,CUST0117,PROD026,4,2026-02-15,Wire Transfer,Completed,423.44,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jackets Item 26,Jeans,105.86
+ORD00267,CUST0081,PROD028,3,2025-03-30,Wire Transfer,Pending,140.04,Michelle,Humbert,916538ef0a1016a08142879e6792d835caefa78cda207519dcaddc452151ef33,Mercier,France,Shoes Item 28,Shoes,46.68
+ORD00268,CUST0096,PROD010,4,2025-05-09,Card,Completed,619.56,Manon,Imbert,20ccc587f3d64eaecdd00defd2f32a368f101b5a15682cdc5683e25023cce49c,BeckerVille,France,Accessories Item 10,Accessories,154.89
+ORD00269,CUST0022,PROD006,4,2025-05-14,Card,Cancelled,251.64,Adèle,Aubert,089c50ce5964a1ee096501d2376a2c36a984c1a78c10f94df4e04b22f56c0452,Blanc,France,Jeans Item 6,Jackets,62.91
+ORD00270,CUST0190,PROD024,2,2025-10-16,Wire Transfer,Completed,147.14,Vincent,Lamy,5111c58917bc0d74178cb0140e339fb222eb2e2b8e4f836daea9d431a0800776,Charpentier,France,Jackets Item 24,Bags,73.57
+ORD00271,CUST0151,PROD036,5,2025-06-10,PayPal,Cancelled,233.4,Claire,Leduc,3280c4d1b5260caf51e71ebde6a2129f6727a548b1b4717935a0f20b0901a948,Morvan-sur-Mer,France,Jeans Item 36,Bags,46.68
+ORD00272,CUST0032,PROD027,3,2025-03-21,Wire Transfer,Pending,385.32,Gabrielle,Le Goff,5df1121cdcbf9addbb0bc0e9f31d2936792034bf7ccb4e91bfbb94222e0e94b0,Lacombe-la-Forêt,France,Bags Item 27,Jeans,128.44
+ORD00274,CUST0091,PROD007,5,2025-06-01,Wire Transfer,Completed,960.55,Laurent,Rey,77078ce6cafb91f42f00f197a216d199afdf344beed6f68ab7f2ba7bdd85335f,Camus-sur-Boulanger,France,Accessories Item 7,Shoes,192.11
+ORD00275,CUST0040,PROD043,4,2025-06-05,Card,Completed,294.44,Laetitia,Couturier,5eec31e1b5f36677d3a85951aed4381be1b9c0e4638766ba868efc057f17a029,Guillaume-les-Bains,France,Jeans Item 43,Bags,73.61
+ORD00276,CUST0090,PROD036,3,2025-11-08,Card,Pending,140.04,Gabrielle,Millet,15deeffc2d2a5141a05eec868bed78559dbed99960f04277cb89c3a1cd75f8a2,Morel-sur-Caron,France,Jeans Item 36,Bags,46.68
+ORD00277,CUST0147,PROD015,4,2026-02-21,Wire Transfer,Cancelled,861.12,Susanne,Riou,55fdb03cacc1c83e46c2166b9bbb03c544dcd89ee37c0e86ca1f0981e60e2a29,Royer-sur-Mahe,France,Accessories Item 15,Shoes,215.28
+ORD00278,CUST0158,PROD044,5,2025-05-08,Card,Cancelled,1164.7,Michel,Guérin,8c7c58669a222b5946eb17675c19b10b19401a2207824d73b60ac3c3f317da9d,MendèsBourg,France,Jackets Item 44,Bags,232.94
+ORD00279,CUST0169,PROD045,3,2025-09-05,Card,Completed,317.28,Lucy,Barre,dabe3e35c3f947f26e6b79759abdafc29962fd44752b8fa68070c7fa646ca01a,Guyot,France,Bags Item 45,Accessories,105.76
+ORD00280,CUST0070,PROD045,3,2026-02-25,PayPal,Pending,317.28,Julie,Perrot,7133b4607fdbaea974af1c7e461f3eebc49335df3cc5f17bb1818739f89e9cd3,Sainte Marguerite,France,Bags Item 45,Accessories,105.76
+ORD00281,CUST0002,PROD012,2,2026-02-19,Wire Transfer,Cancelled,160.72,Juliette,Pelletier,06c30b9755a112b8f77b6d7dcf97068f0f9f3c9c1c563acc09da2138a267dc4d,Chevalier,France,Shoes Item 12,Jeans,80.36
+ORD00282,CUST0103,PROD005,2,2025-10-05,Wire Transfer,Cancelled,289.4,Vincent,Blot,29f91114ef78946ee181b45ad3c21eb6b9b4ea41e841713c5f8bdc94cccc29c9,Besnard,France,Jeans Item 5,Shoes,144.7
+ORD00283,CUST0008,PROD006,5,2025-04-10,Card,Pending,314.55,Émilie,Normand,28cff725e0e51e1e0341b56ad4d03dbe07b4dcb344741acbc48bb076880f34bd,Masson,France,Jeans Item 6,Jackets,62.91
+ORD00284,CUST0108,PROD030,3,2025-06-25,Card,Pending,410.97,Émilie,Allain,1bc6231e47d68744859af239aed1ab495cfce48d9404475d40672a1f94429016,Sainte Audrey,France,Jeans Item 30,Jackets,136.99
+ORD00285,CUST0080,PROD047,3,2025-10-24,Wire Transfer,Cancelled,191.79,Denise,Thomas,8b5d6f327f708e8e35967f5ac5a3b13e45bbb0479995961a22d614b96415cfc1,Hervé,France,Shoes Item 47,Bags,63.93
+ORD00287,CUST0013,PROD044,1,2026-01-30,PayPal,Pending,232.94,Matthieu,Guillou,,Benoit,France,Jackets Item 44,Bags,232.94
+ORD00288,CUST0170,PROD028,4,2025-07-01,Wire Transfer,Pending,186.72,Suzanne,Brun,20ccc587f3d64eaecdd00defd2f32a368f101b5a15682cdc5683e25023cce49c,Vallet,France,Shoes Item 28,Shoes,46.68
+ORD00289,CUST0107,PROD018,2,2025-09-14,Wire Transfer,Completed,312.38,Victor,Pasquier,ce08662e1278947d8a06ff33a6b1068bd6454107087dd7c84450554068b5ed17,Saint Anne,France,Accessories Item 18,Shoes,156.19
+ORD00290,CUST0089,PROD028,1,2026-01-26,PayPal,Cancelled,46.68,Jacqueline,Blanchet,0530745328479b446454b94aa583a92cf93483386c9c26d0bafb3c0a3a745daf,Saint Astrid,France,Shoes Item 28,Shoes,46.68
+ORD00291,CUST0174,PROD038,4,2025-08-11,Wire Transfer,Cancelled,351.2,Zoé,David,cbb5c79bf9b36ef9bf959f8cb325517afb35af7b3945acf46ed4656682f64708,Bonnet,France,Shoes Item 38,Jeans,87.8
+ORD00292,CUST0079,PROD003,2,2025-05-18,PayPal,Cancelled,303.44,Augustin,Bonnet,34d06ea95f04355c3f4bc36970f64aa77a9410b219f8f5c64a87f376551c6f0e,Saint Madeleine-les-Bains,France,Jeans Item 3,Shoes,151.72
+ORD00293,CUST0015,PROD001,2,2026-02-08,PayPal,Completed,375.94,Suzanne,Costa,dc84d2f1febe231743df3bb5c3621ce77e9e8c83332b9fcd34e1d92fa50c59e3,Saint Zoé,France,Shoes Item 1,Shoes,187.97
+ORD00294,CUST0197,PROD009,3,2025-06-15,PayPal,Pending,96.78,Noël,Bonnin,e258d3908d6084eaac441076a0ef68196d7a5eb0698879f8636ba5adff7416fe,Rocher-sur-Mer,France,Accessories Item 9,Shoes,32.26
+ORD00295,CUST0031,PROD001,4,2025-04-29,Wire Transfer,Pending,751.88,Théodore,Lemaître,c711a248509fdbfdceff4b5e957c0ddc1776e3cd4e550a9772c50874d9ddfe2a,Gérard,France,Shoes Item 1,Shoes,187.97
+ORD00296,CUST0045,PROD009,4,2025-12-19,Wire Transfer,Cancelled,129.04,Raymond,Moreau,724da09f7dbcc0c711f307ad854b1bf61cf02ed61a647251b152a63f96552b65,Langlois,France,Accessories Item 9,Shoes,32.26
+ORD00297,CUST0059,PROD033,5,2025-06-23,Wire Transfer,Pending,53.9,Laetitia,Roche,92e933245c81244e83b76c17d38f32e9f5ec5207eaffd729c0755b6a6d498431,Sainte Valentine,France,Bags Item 33,Jackets,10.78
+ORD00298,CUST0019,PROD026,1,2026-02-01,PayPal,Completed,105.86,Margot,Andre,5807630280aa750692229572d80fbc603f88eb6fdc1948e523eac9a6532c9436,Langlois,France,Jackets Item 26,Jeans,105.86
+ORD00299,CUST0118,PROD005,3,2026-01-13,Wire Transfer,Pending,434.1,Marthe,Bouchet,b1424cbef952eb460cbcddcb1ed8a0a19786198e65d762f599d2ebc0529ed28c,CharrierBourg,France,Jeans Item 5,Shoes,144.7
+ORD00300,CUST0147,PROD026,4,2025-12-19,PayPal,Completed,423.44,Susanne,Riou,55fdb03cacc1c83e46c2166b9bbb03c544dcd89ee37c0e86ca1f0981e60e2a29,Royer-sur-Mahe,France,Jackets Item 26,Jeans,105.86
+ORD00301,CUST0104,PROD002,3,2026-02-14,Card,Cancelled,560.25,Luc,Benoit,01da11c26a5d8784bc6d2e9408778f303a91c509fe55faa09a03d675df165b5e,Coste,France,Bags Item 2,Bags,186.75
+ORD00302,CUST0118,PROD045,3,2025-12-23,Card,Pending,317.28,Marthe,Bouchet,b1424cbef952eb460cbcddcb1ed8a0a19786198e65d762f599d2ebc0529ed28c,CharrierBourg,France,Bags Item 45,Accessories,105.76
+ORD00303,CUST0028,PROD016,4,2026-02-05,Wire Transfer,Pending,475.28,Adrien,Denis,2ffbd5ebd8ba363fbd09bff51bab92e2a0dc2c3d4a99b9fc268392fb624db2dc,Briand,France,Jackets Item 16,Accessories,118.82
+ORD00304,CUST0135,PROD006,4,2025-04-12,PayPal,Cancelled,251.64,Odette,Faivre,fa7a581cd444e5907a198f0c76c0850c409b6a9671fa3b98fe55d71075146a1b,Weberboeuf,France,Jeans Item 6,Jackets,62.91
+ORD00305,CUST0087,PROD015,3,2025-04-08,Card,Completed,645.84,Christophe,Brun,bddb2059fcc8f0e11b01850ade14e8d5b179ae17dd0a7be65a5ce0af5ad3cb9e,Pasquier,France,Accessories Item 15,Shoes,215.28
+ORD00306,CUST0131,PROD041,1,2025-07-30,Wire Transfer,Cancelled,185.66,Luc,Evrard,c777964e820ad9b506620ef1d92b5aac8a34f7e186d701a372f6210f334dedcb,Saint Élisabeth,France,Shoes Item 41,Shoes,185.66
+ORD00307,CUST0050,PROD050,3,2025-08-13,PayPal,Cancelled,78.54,Jules,Lagarde,fe6e305ff89a56f26d52c78b73b44e12d73ddacf781dbe92425f40da3f19329a,Seguin-sur-Grondin,France,Shoes Item 50,Bags,26.18
+ORD00308,CUST0166,PROD010,2,2025-07-18,Card,Completed,309.78,Simone,Paris,51deab053ae1895478aa796a429e7051cee66f11d212aae61c6316c19e176479,LopesBourg,France,Accessories Item 10,Accessories,154.89
+ORD00309,CUST0066,PROD013,2,2026-03-13,Wire Transfer,Completed,297.12,Franck,Benoit,5fa6e1e85aa5dfaff55df5ecc64b09852c8049af5905ecb2d50ccefebc146c00,Letellierboeuf,France,Jeans Item 13,Accessories,148.56
+ORD00310,CUST0195,PROD049,1,2026-02-28,Card,Cancelled,27.04,Gilbert,Bouvier,9478869fbf5916f460469c8c2c1717a4fd9bb186d4a76089387022b9073dfe88,Arnaud,France,Bags Item 49,Shoes,27.04
+ORD00311,CUST0127,PROD030,5,2025-08-01,Wire Transfer,Pending,684.95,Roger,Allain,7e57fb060358036426ef21e9ddbb9129f407104231236124f6ab12555ad12fa4,Lacombe-sur-Chauvin,France,Jeans Item 30,Jackets,136.99
+ORD00312,CUST0175,PROD037,5,2025-08-27,PayPal,Cancelled,1194.2,Victoire,Richard,b3482e9f21f5dcbe0162433791f380faffcf3f67b0b829272f52d5cae2ec778d,Goncalves-sur-Gallet,France,Bags Item 37,Jeans,238.84
+ORD00313,CUST0081,PROD010,4,2025-09-20,Card,Pending,619.56,Michelle,Humbert,916538ef0a1016a08142879e6792d835caefa78cda207519dcaddc452151ef33,Mercier,France,Accessories Item 10,Accessories,154.89
+ORD00314,CUST0114,PROD041,3,2025-11-11,PayPal,Cancelled,556.98,Anouk,Vallet,5e900f6cbe1ba93f7d37416476529fcb2b52822988bd4824a8b5dace4c582ce3,HoareauVille,France,Shoes Item 41,Shoes,185.66
+ORD00315,CUST0015,PROD023,5,2025-11-02,Card,Pending,836.55,Suzanne,Costa,dc84d2f1febe231743df3bb5c3621ce77e9e8c83332b9fcd34e1d92fa50c59e3,Saint Zoé,France,Accessories Item 23,Bags,167.31
+ORD00316,CUST0119,PROD029,1,2026-02-28,Card,Pending,25.25,Laurent,David,1d516fbba7ba11df47a95853936313776f32a85900d02245fae500d6706dca58,Leclerc,France,Jackets Item 29,Jeans,25.25
+ORD00317,CUST0074,PROD005,1,2025-07-13,Wire Transfer,Cancelled,144.7,Renée,Jourdan,f3cad7199fde6771bfc521a0b23ebacfa10656f899391cce68de5eef66d01935,Munoz,France,Jeans Item 5,Shoes,144.7
+ORD00318,CUST0130,PROD025,4,2026-02-23,Wire Transfer,Cancelled,292.24,Joseph,Hardy,8b4d0b05b42883ef08f0daba77b4543d43a9b7ee76a851e25609defb9a84b115,Guillou,France,Jeans Item 25,Jeans,73.06
+ORD00319,CUST0190,PROD003,4,2025-06-27,Wire Transfer,Cancelled,606.88,Vincent,Lamy,5111c58917bc0d74178cb0140e339fb222eb2e2b8e4f836daea9d431a0800776,Charpentier,France,Jeans Item 3,Shoes,151.72
+ORD00320,CUST0049,PROD021,5,2025-05-04,PayPal,Cancelled,1036.15,Adélaïde,Hamon,9373911d4c3c83a936ab93f24b8cc369c2ca249659a5673255313d71b2d61f93,Lemaire,France,Shoes Item 21,Bags,207.23
+ORD00322,CUST0183,PROD006,5,2026-01-16,Wire Transfer,Completed,314.55,Hélène,Bazin,e86ca7444b486e56637889d51f5a0dc90319f8fed2e769fb1ba83db12ed8c948,Guillaume,France,Jeans Item 6,Jackets,62.91
+ORD00323,CUST0011,PROD016,4,2025-06-13,PayPal,Cancelled,475.28,Manon,Legrand,a7714b4209e814204a71beac20cc3fe8edec782d59cac580b390a20adca0a6a7,Chauvin-la-Forêt,France,Jackets Item 16,Accessories,118.82
+ORD00324,CUST0134,PROD040,2,2025-10-18,PayPal,Pending,135.62,Noël,Gilbert,849a681f46719e73c1f7b6b2a09c0ce66ffa238e2bbd28f642629b6e7b9fdc1a,Sainte Christellenec,France,Bags Item 40,Shoes,67.81
+ORD00325,CUST0073,PROD025,4,2025-05-27,PayPal,Cancelled,292.24,Pauline,Gaudin,f514318722f8f341e795cdee382cb109f5c452c412fbfa6ac457116466c71f71,Sainte Monique,France,Jeans Item 25,Jeans,73.06
+ORD00327,CUST0025,PROD036,4,2025-07-05,PayPal,Pending,186.72,Camille,Roy,780a4c709c85adca14b7658bb5432d268fa553f31a1d97135900e3c7df5c2898,Mace,France,Jeans Item 36,Bags,46.68
+ORD00328,CUST0186,PROD043,5,2025-04-19,Card,Pending,368.05,Gabriel,Pages,b8597d52b8a287f5efaf80ad20d8f8ddd5a37f485a7c9c528d11ba75cf84a356,Sainte Christiane,France,Jeans Item 43,Bags,73.61
+ORD00329,CUST0021,PROD038,2,2025-11-03,PayPal,Pending,175.6,Noémi,Colas,def6b025dca4645b76810bf25ea23dbb77b591ea090d4b7b3fca3b5d9401ff02,Hardy,France,Shoes Item 38,Jeans,87.8
+ORD00330,CUST0168,PROD045,4,2025-09-17,Card,Cancelled,423.04,Josette,De Oliveira,b029958f506c175f8620cf21b1f59c8660ee7996aa2bcf5a3d23cfef20de98f2,Alves-les-Bains,France,Bags Item 45,Accessories,105.76
+ORD00331,CUST0182,PROD006,3,2025-04-17,Wire Transfer,Pending,188.73,Lucas,Brun,6fd021a17dea9154abd86d6585bb8eac7a9a2c23375f4fd86bf8c0256265652b,Andre,France,Jeans Item 6,Jackets,62.91
+ORD00332,CUST0165,PROD022,2,2025-04-25,Wire Transfer,Cancelled,51.78,Jeannine,Lejeune,7678af7ed49d864fa277e6a3becb6381fd6a9bc8bc4294c20a5f35c69b215a46,Millet-sur-Briand,France,Jackets Item 22,Accessories,25.89
+ORD00333,CUST0190,PROD044,5,2025-07-03,Card,Cancelled,1164.7,Vincent,Lamy,5111c58917bc0d74178cb0140e339fb222eb2e2b8e4f836daea9d431a0800776,Charpentier,France,Jackets Item 44,Bags,232.94
+ORD00334,CUST0172,PROD028,5,2025-04-26,PayPal,Completed,233.4,David,Nicolas,3a665c67da74659ca1a70750b9f3b463f9a37a9fc51959ed8cbe7b58ba002190,Buisson-sur-Mer,France,Shoes Item 28,Shoes,46.68
+ORD00335,CUST0093,PROD020,2,2025-06-23,Card,Pending,125.42,Eugène,Louis,21849e3a3e75fba4e75ee6ae4b5108b7d122930cf2203924afa3098d0c76750e,Sainte Pénélopeboeuf,France,Accessories Item 20,Jeans,62.71
+ORD00336,CUST0197,PROD032,2,2025-07-31,Card,Completed,73.54,Noël,Bonnin,e258d3908d6084eaac441076a0ef68196d7a5eb0698879f8636ba5adff7416fe,Rocher-sur-Mer,France,Accessories Item 32,Accessories,36.77
+ORD00337,CUST0040,PROD005,3,2026-02-03,Card,Cancelled,434.1,Laetitia,Couturier,5eec31e1b5f36677d3a85951aed4381be1b9c0e4638766ba868efc057f17a029,Guillaume-les-Bains,France,Jeans Item 5,Shoes,144.7
+ORD00338,CUST0198,PROD035,5,2025-10-23,Card,Cancelled,1060.0,Lucy,Benoit,49a5065a7692175987de9c2914ee4498f5bd2c6bef3f6e695aced5f92b610874,Salmon-sur-Merle,France,Shoes Item 35,Accessories,212.0
+ORD00339,CUST0087,PROD050,5,2025-06-20,Card,Cancelled,130.9,Christophe,Brun,bddb2059fcc8f0e11b01850ade14e8d5b179ae17dd0a7be65a5ce0af5ad3cb9e,Pasquier,France,Shoes Item 50,Bags,26.18
+ORD00340,CUST0097,PROD010,2,2025-06-02,Card,Cancelled,309.78,Philippe,Renault,e693f3e7506c359db2c0ac0330815a055352e370bd63d611abc8f766fdbe2c5b,Da Silva,France,Accessories Item 10,Accessories,154.89
+ORD00341,CUST0198,PROD040,2,2025-05-06,Wire Transfer,Pending,135.62,Lucy,Benoit,49a5065a7692175987de9c2914ee4498f5bd2c6bef3f6e695aced5f92b610874,Salmon-sur-Merle,France,Bags Item 40,Shoes,67.81
+ORD00342,CUST0012,PROD027,3,2025-04-08,Wire Transfer,Cancelled,385.32,Patricia,Lucas,7bfd767b41eff18cfe96e3fdecb4bc86da6f2a03303b03558860185e0d2fe67b,Sainte Brigitte,France,Bags Item 27,Jeans,128.44
+ORD00343,CUST0061,PROD029,5,2025-08-29,PayPal,Cancelled,126.25,Aimée,Guibert,4fb359c1f9a63800ea00ab117110b8fc9db245949a2c3c4f6f6a97d9f2eb1c92,Pascal-sur-Breton,France,Jackets Item 29,Jeans,25.25
+ORD00344,CUST0115,PROD015,5,2025-11-06,Card,Pending,1076.4,Charlotte,Thomas,f4e6030e81b9586cc32a57851968d7931714b703e7e24d51569335c39d19c2a7,Ferreira-les-Bains,France,Accessories Item 15,Shoes,215.28
+ORD00345,CUST0121,PROD013,3,2025-10-05,Wire Transfer,Cancelled,445.68,Julie,Barbe,9797478d1fa2609ae0d0f6885e903ecbf3e081ab7f318ef22a3b7c8db683e5d5,Duhamel,France,Jeans Item 13,Accessories,148.56
+ORD00346,CUST0113,PROD030,3,2025-04-05,PayPal,Cancelled,410.97,Margaud,Ferrand,29cb8c4310c24e5b776d1554c94e8cab76bfe130820005e423d2cdfe9ef1889b,Saint Lucie-la-Forêt,France,Jeans Item 30,Jackets,136.99
+ORD00347,CUST0136,PROD027,2,2025-11-19,Card,Cancelled,256.88,Jules,Verdier,2c188ee4c796314826fc12721be6b9c2948badf83c3ee0da7be533c65c3c3d3a,Saint Patricia,France,Bags Item 27,Jeans,128.44
+ORD00348,CUST0036,PROD017,1,2025-12-02,Wire Transfer,Pending,95.26,Mathilde,Pages,ee32d5916fccaef86b479d176106dbf57e39ef5ca89328f239e7b4ea4a3b6b7a,Gosselin,France,Bags Item 17,Accessories,95.26
+ORD00349,CUST0096,PROD036,1,2025-05-21,Wire Transfer,Cancelled,46.68,Manon,Imbert,20ccc587f3d64eaecdd00defd2f32a368f101b5a15682cdc5683e25023cce49c,BeckerVille,France,Jeans Item 36,Bags,46.68
+ORD00350,CUST0032,PROD019,1,2025-09-15,Card,Pending,49.22,Gabrielle,Le Goff,5df1121cdcbf9addbb0bc0e9f31d2936792034bf7ccb4e91bfbb94222e0e94b0,Lacombe-la-Forêt,France,Jeans Item 19,Bags,49.22
+ORD00351,CUST0116,PROD033,2,2025-10-20,PayPal,Completed,21.56,Jeannine,Foucher,7cb2ec8e1b2414faf9c0e31b3ae6969c0c13038ac733edf57e2782c7bf13bf23,Baron-sur-Besnard,France,Bags Item 33,Jackets,10.78
+ORD00352,CUST0057,PROD029,3,2025-11-01,Card,Pending,75.75,Isabelle,Renard,2a188e5c5d1b87f7ab75f1b672cd98680260b2806fdfcfb5af8a01bc76f42023,Cousin,France,Jackets Item 29,Jeans,25.25
+ORD00353,CUST0014,PROD026,5,2025-11-02,PayPal,Completed,529.3,Julien,Seguin,f1047b9f52c4cd71c318c0e950458259c270e1d70a4dc09c2370e44d1e29b415,Guérin-sur-Maréchal,France,Jackets Item 26,Jeans,105.86
+ORD00354,CUST0099,PROD006,3,2025-07-02,Card,Completed,188.73,Raymond,Lemonnier,502aed6dbf779e2ed81d98985908440d3428ceef33efaedaf81d4b7f4add82a5,Chrétiendan,France,Jeans Item 6,Jackets,62.91
+ORD00355,CUST0082,PROD007,3,2025-09-11,Card,Completed,576.33,Stéphanie,Leroy,fecf5640853f590a02b2ecedf28f8e9a4ab49fa957596c22c5464a42049334fa,Baillynec,France,Accessories Item 7,Shoes,192.11
+ORD00356,CUST0010,PROD019,4,2025-10-14,Wire Transfer,Completed,196.88,Matthieu,Michel,25781b323b5159610cfae2164239c82571636a9521a33d78556e34f7fa9e6841,Rolland,France,Jeans Item 19,Bags,49.22
+ORD00357,CUST0195,PROD046,4,2025-04-13,PayPal,Cancelled,903.64,Gilbert,Bouvier,9478869fbf5916f460469c8c2c1717a4fd9bb186d4a76089387022b9073dfe88,Arnaud,France,Accessories Item 46,Jackets,225.91
+ORD00358,CUST0002,PROD006,1,2026-01-28,PayPal,Completed,62.91,Juliette,Pelletier,06c30b9755a112b8f77b6d7dcf97068f0f9f3c9c1c563acc09da2138a267dc4d,Chevalier,France,Jeans Item 6,Jackets,62.91
+ORD00359,CUST0039,PROD036,5,2025-07-28,Wire Transfer,Pending,233.4,Julie,Marchal,3b3c6a6b3484d44b25846615dad98ea66e6aa57ff785f0b9b6b11fe7ae6c940f,De Sousa,France,Jeans Item 36,Bags,46.68
+ORD00360,CUST0029,PROD050,3,2025-03-27,Card,Pending,78.54,Julie,Lesage,0597bf2930cb7357f836f726d1fe229e2054f47dfe3f6d86fcfefa3da00101e4,Guibert,France,Shoes Item 50,Bags,26.18
+ORD00362,CUST0160,PROD030,1,2025-11-25,Card,Pending,136.99,Océane,Marques,bbd95a22656d1faa1d150b081cf47346669fafe95d242b492433e156f7bfa6c5,Lacroix,France,Jeans Item 30,Jackets,136.99
+ORD00363,CUST0153,PROD035,1,2025-05-16,Wire Transfer,Cancelled,212.0,Étienne,Fournier,ca868a0bb80b812762978a3be111b85705713ae39c0584512f099fd574afcd60,Sainte Suzanne-la-Forêt,France,Shoes Item 35,Accessories,212.0
+ORD00364,CUST0148,PROD016,2,2026-01-25,PayPal,Pending,237.64,Margaux,Robin,d77d422c88a8e312baa2fb5659963c67e69237dbe6928bf9a8fe2f82b8200834,Martins,France,Jackets Item 16,Accessories,118.82
+ORD00365,CUST0001,PROD040,3,2025-09-02,Card,Cancelled,203.43,ANONYMIZED,ANONYMIZED,6505c763b4ffc2342b6a39e095bc9ed04c4e96609eaf88a5517f44cb346378c8,Grégoire,France,Bags Item 40,Shoes,67.81
+ORD00366,CUST0107,PROD012,1,2025-04-27,Wire Transfer,Pending,80.36,Victor,Pasquier,ce08662e1278947d8a06ff33a6b1068bd6454107087dd7c84450554068b5ed17,Saint Anne,France,Shoes Item 12,Jeans,80.36
+ORD00367,CUST0018,PROD034,5,2025-10-29,Wire Transfer,Cancelled,964.35,Marguerite,Lefebvre,9ec26ca1f2946df9e1b44e8536bc9f8aa2f8301d70c65eff78f8284bb4b1f692,Bernier-sur-Mer,France,Accessories Item 34,Jeans,192.87
+ORD00368,CUST0142,PROD002,4,2025-03-24,PayPal,Completed,747.0,Roland,Didier,ffc6250087f8bb2ad30d878e56b2bfabb8354a6b040749529fa8b586526265f8,ArnaudVille,France,Bags Item 2,Bags,186.75
+ORD00369,CUST0163,PROD025,3,2025-10-04,PayPal,Cancelled,219.18,Hugues,Legrand,ba36edd56fc1acb9c9c61efa8f2748ef6d8a3a20662a881cd8ccf86705c5ff50,NicolasVille,France,Jeans Item 25,Jeans,73.06
+ORD00370,CUST0005,PROD023,1,2025-10-01,PayPal,Completed,167.31,Geneviève,Nguyen,8c7854d9a93978d8c39d6668bd56dffa14b8f55967bfa00b8c207f39a2368e72,Perrier-sur-Leroy,France,Accessories Item 23,Bags,167.31
+ORD00371,CUST0188,PROD043,1,2025-05-31,Wire Transfer,Cancelled,73.61,Céline,Valette,debbaf88610f6f89709cc1981462a539484cbdb9424e04d899e89f02067aca3e,Lemoine,France,Jeans Item 43,Bags,73.61
+ORD00372,CUST0194,PROD022,2,2025-10-05,Card,Pending,51.78,Jérôme,Hamon,5a0643142a1bf6698da3650f51c4dcd55e90faa0346e6ddf248ae33e5e40884b,Roux,France,Jackets Item 22,Accessories,25.89
+ORD00373,CUST0140,PROD022,2,2025-11-01,Wire Transfer,Pending,51.78,Pauline,Lebreton,9c61ff17122eba57c98f077fb631ca13cb57ae86cb24c29e6ce3606024ac207a,Saint StéphanieBourg,France,Jackets Item 22,Accessories,25.89
+ORD00374,CUST0179,PROD031,2,2025-06-20,Card,Completed,347.22,Joseph,Laurent,2411eac3db6c98ad3f8db73a24392ce4af942b3bb1afb0000888e7d7053e53ba,Lemonnier,France,Shoes Item 31,Shoes,173.61
+ORD00375,CUST0184,PROD050,4,2025-10-19,Card,Pending,104.72,Françoise,Baron,44e3f309927605d35e4205ee9708ad17e76d669093c47fc9bc9da4d1ae4cdf3e,Saint Thierry-les-Bains,France,Shoes Item 50,Bags,26.18
+ORD00376,CUST0052,PROD003,2,2026-03-07,Card,Pending,303.44,Sébastien,Delahaye,97fa5906a638d59fb4ee9bf6a12008b7f5430015a7b7145514a72a42666caccc,Nguyen,France,Jeans Item 3,Shoes,151.72
+ORD00377,CUST0080,PROD033,4,2025-12-04,Wire Transfer,Pending,43.12,Denise,Thomas,8b5d6f327f708e8e35967f5ac5a3b13e45bbb0479995961a22d614b96415cfc1,Hervé,France,Bags Item 33,Jackets,10.78
+ORD00378,CUST0065,PROD003,2,2025-07-29,PayPal,Pending,303.44,Édouard,Legros,013dab629b81ba048b9fc0a628495be677f108ee873153020fe928315b7d0c96,Dupontnec,France,Jeans Item 3,Shoes,151.72
+ORD00380,CUST0095,PROD028,4,2025-07-22,Wire Transfer,Pending,186.72,Véronique,Laroche,d84274e631072842e258f57611f0be9a37b8537b14276be64a01e2eddfb4b01e,Laine,France,Shoes Item 28,Shoes,46.68
+ORD00381,CUST0099,PROD022,2,2025-10-25,PayPal,Cancelled,51.78,Raymond,Lemonnier,502aed6dbf779e2ed81d98985908440d3428ceef33efaedaf81d4b7f4add82a5,Chrétiendan,France,Jackets Item 22,Accessories,25.89
+ORD00382,CUST0128,PROD024,5,2025-05-23,PayPal,Completed,367.85,Alix,Jacquot,2bf679c786562681f85c779e962afc55c11708508d595a72220b0423bd03b976,Morvan-sur-Gaudin,France,Jackets Item 24,Bags,73.57
+ORD00383,CUST0187,PROD028,1,2025-12-31,PayPal,Cancelled,46.68,Henri,Texier,5c1fd5d649a2d3a8764f471493be3e9df07901d27f5484c6897484bdfff7b07f,MassonBourg,France,Shoes Item 28,Shoes,46.68
+ORD00384,CUST0047,PROD035,3,2025-12-03,PayPal,Completed,636.0,Stéphane,Godard,b7336b10a7c8e4aa6044b4374e6a187294a0914f9dcda189ac8d9621861a6557,Caron,France,Shoes Item 35,Accessories,212.0
+ORD00385,CUST0021,PROD021,3,2026-01-25,PayPal,Pending,621.69,Noémi,Colas,def6b025dca4645b76810bf25ea23dbb77b591ea090d4b7b3fca3b5d9401ff02,Hardy,France,Shoes Item 21,Bags,207.23
+ORD00386,CUST0155,PROD046,4,2025-09-20,Card,Cancelled,903.64,Odette,Chartier,d910ed693ba90b7ecf3baf6357118cb0c40bd8b26505cb8b72dc85a414532674,Rodriguez,France,Accessories Item 46,Jackets,225.91
+ORD00387,CUST0114,PROD023,4,2025-07-12,Card,Cancelled,669.24,Anouk,Vallet,5e900f6cbe1ba93f7d37416476529fcb2b52822988bd4824a8b5dace4c582ce3,HoareauVille,France,Accessories Item 23,Bags,167.31
+ORD00388,CUST0091,PROD040,4,2026-03-15,PayPal,Cancelled,271.24,Laurent,Rey,77078ce6cafb91f42f00f197a216d199afdf344beed6f68ab7f2ba7bdd85335f,Camus-sur-Boulanger,France,Bags Item 40,Shoes,67.81
+ORD00389,CUST0015,PROD005,4,2025-12-23,PayPal,Cancelled,578.8,Suzanne,Costa,dc84d2f1febe231743df3bb5c3621ce77e9e8c83332b9fcd34e1d92fa50c59e3,Saint Zoé,France,Jeans Item 5,Shoes,144.7
+ORD00390,CUST0192,PROD044,2,2025-08-11,Card,Completed,465.88,Antoine,Carlier,5242a7fc0961efab5e4c7513933d88ca12d140bb85ff737c03f4359f22881e1f,Blondelnec,France,Jackets Item 44,Bags,232.94
+ORD00391,CUST0156,PROD044,4,2025-06-03,Card,Completed,931.76,Daniel,Lacroix,1981fc1f85e648596e4366219ad7250c7974ea2f29277ab2025533293f91d9fb,LaurentVille,France,Jackets Item 44,Bags,232.94
+ORD00392,CUST0018,PROD016,3,2025-08-11,PayPal,Pending,356.46,Marguerite,Lefebvre,9ec26ca1f2946df9e1b44e8536bc9f8aa2f8301d70c65eff78f8284bb4b1f692,Bernier-sur-Mer,France,Jackets Item 16,Accessories,118.82
+ORD00393,CUST0146,PROD003,5,2025-08-30,Card,Cancelled,758.6,Marc,Philippe,f78340e596c44189efd2e608c934e5375e9242443cb9fd834503ac1eb92c16ab,Besson-la-Forêt,France,Jeans Item 3,Shoes,151.72
+ORD00394,CUST0116,PROD024,3,2025-07-18,PayPal,Completed,220.71,Jeannine,Foucher,7cb2ec8e1b2414faf9c0e31b3ae6969c0c13038ac733edf57e2782c7bf13bf23,Baron-sur-Besnard,France,Jackets Item 24,Bags,73.57
+ORD00395,CUST0147,PROD009,5,2025-08-20,PayPal,Pending,161.3,Susanne,Riou,55fdb03cacc1c83e46c2166b9bbb03c544dcd89ee37c0e86ca1f0981e60e2a29,Royer-sur-Mahe,France,Accessories Item 9,Shoes,32.26
+ORD00396,CUST0081,PROD042,3,2025-03-21,Card,Completed,122.43,Michelle,Humbert,916538ef0a1016a08142879e6792d835caefa78cda207519dcaddc452151ef33,Mercier,France,Jeans Item 42,Bags,40.81
+ORD00397,CUST0007,PROD048,2,2025-06-10,PayPal,Cancelled,285.88,Noémi,Masse,8e12f1fa5290142eeb8ccd0342be382e1ee358c7d941a2a3d6415fbafb831eef,BrunelBourg,France,Shoes Item 48,Jeans,142.94
+ORD00398,CUST0100,PROD036,1,2025-04-14,PayPal,Pending,46.68,Éric,Lesage,7a7c1fa44eb281f3c153afc3bdcbae1806a7fe7a6f6e222445b715469e0a9da4,SimonVille,France,Jeans Item 36,Bags,46.68
+ORD00399,CUST0181,PROD029,2,2025-11-07,Wire Transfer,Pending,50.5,Arthur,Garcia,0f00be48f70efd5bb2f0268d6a2268e12ca7a7e97fbda433f86823a139dfbc64,Guérin,France,Jackets Item 29,Jeans,25.25
+ORD00400,CUST0178,PROD032,2,2025-04-10,Card,Completed,73.54,Gilbert,Legros,8dfdcc8872cc44b779ba0b786754928507ae58f4bba50249b96f9aa6dcd6a912,Paul,France,Accessories Item 32,Accessories,36.77
+ORD00401,CUST0019,PROD029,2,2025-07-21,Wire Transfer,Pending,50.5,Margot,Andre,5807630280aa750692229572d80fbc603f88eb6fdc1948e523eac9a6532c9436,Langlois,France,Jackets Item 29,Jeans,25.25
+ORD00402,CUST0023,PROD044,3,2026-01-14,Wire Transfer,Pending,698.82,Hortense,Millet,86fbc514a4e1cc1d4980a9065b5a6862f66d43e750cb6b79eb7714b0eb4bb2e9,Saint Margaud,France,Jackets Item 44,Bags,232.94
+ORD00403,CUST0182,PROD005,5,2026-01-01,Wire Transfer,Pending,723.5,Lucas,Brun,6fd021a17dea9154abd86d6585bb8eac7a9a2c23375f4fd86bf8c0256265652b,Andre,France,Jeans Item 5,Shoes,144.7
+ORD00404,CUST0077,PROD011,2,2025-03-25,PayPal,Cancelled,79.92,Guillaume,Deschamps,2207964c6dfe059c1f9c188c1628fef997e891274db388ff8aeeb6690d026187,Saint Agnès,France,Jackets Item 11,Unknown,39.96
+ORD00405,CUST0058,PROD008,2,2025-04-01,Card,Completed,153.38,Édith,Camus,8b1db413735322daa48cdd43a08357fe2a7b61b2bc503189085bebd2162229b8,Gauthier,France,Jackets Item 8,Accessories,76.69
+ORD00406,CUST0127,PROD002,3,2025-03-26,Wire Transfer,Cancelled,560.25,Roger,Allain,7e57fb060358036426ef21e9ddbb9129f407104231236124f6ab12555ad12fa4,Lacombe-sur-Chauvin,France,Bags Item 2,Bags,186.75
+ORD00407,CUST0095,PROD030,5,2026-01-15,Card,Cancelled,684.95,Véronique,Laroche,d84274e631072842e258f57611f0be9a37b8537b14276be64a01e2eddfb4b01e,Laine,France,Jeans Item 30,Jackets,136.99
+ORD00408,CUST0023,PROD005,3,2025-09-10,PayPal,Cancelled,434.1,Hortense,Millet,86fbc514a4e1cc1d4980a9065b5a6862f66d43e750cb6b79eb7714b0eb4bb2e9,Saint Margaud,France,Jeans Item 5,Shoes,144.7
+ORD00409,CUST0185,PROD031,5,2025-06-07,PayPal,Pending,868.05,Marianne,Gaillard,48fbb7ba5c14d1eb78fa54d318450424a175e05e762cf851e2c316d5531c8966,Rollandnec,France,Shoes Item 31,Shoes,173.61
+ORD00410,CUST0148,PROD005,2,2026-02-15,PayPal,Cancelled,289.4,Margaux,Robin,d77d422c88a8e312baa2fb5659963c67e69237dbe6928bf9a8fe2f82b8200834,Martins,France,Jeans Item 5,Shoes,144.7
+ORD00411,CUST0019,PROD029,4,2025-05-02,Wire Transfer,Cancelled,101.0,Margot,Andre,5807630280aa750692229572d80fbc603f88eb6fdc1948e523eac9a6532c9436,Langlois,France,Jackets Item 29,Jeans,25.25
+ORD00412,CUST0089,PROD009,5,2025-07-31,Wire Transfer,Cancelled,161.3,Jacqueline,Blanchet,0530745328479b446454b94aa583a92cf93483386c9c26d0bafb3c0a3a745daf,Saint Astrid,France,Accessories Item 9,Shoes,32.26
+ORD00413,CUST0047,PROD050,2,2025-05-28,PayPal,Cancelled,52.36,Stéphane,Godard,b7336b10a7c8e4aa6044b4374e6a187294a0914f9dcda189ac8d9621861a6557,Caron,France,Shoes Item 50,Bags,26.18
+ORD00414,CUST0015,PROD008,5,2025-06-19,Card,Pending,383.45,Suzanne,Costa,dc84d2f1febe231743df3bb5c3621ce77e9e8c83332b9fcd34e1d92fa50c59e3,Saint Zoé,France,Jackets Item 8,Accessories,76.69
+ORD00415,CUST0043,PROD011,3,2026-01-14,Wire Transfer,Completed,119.88,Julie,Camus,f547c52854c751b459f1340c17e7e7c1f79c1f99a627d7c108681767b3216cfa,Sainte Alphonsenec,France,Jackets Item 11,Unknown,39.96
+ORD00416,CUST0089,PROD034,3,2026-01-08,Card,Pending,578.61,Jacqueline,Blanchet,0530745328479b446454b94aa583a92cf93483386c9c26d0bafb3c0a3a745daf,Saint Astrid,France,Accessories Item 34,Jeans,192.87
+ORD00417,CUST0051,PROD041,5,2025-10-09,PayPal,Completed,928.3,Stéphane,De Sousa,8891c0fac5b62e4bb0abf30081b2594dffb1e8bf8e7a333dbf34e8cb5cb1e888,Guyotnec,France,Shoes Item 41,Shoes,185.66
+ORD00418,CUST0161,PROD020,5,2026-02-13,Wire Transfer,Completed,313.55,Adrien,Bonnin,6904f5aa746131f1e35004aec9faa9ccffee2150e5765c144d613db9db94fe7a,Martinez,France,Accessories Item 20,Jeans,62.71
+ORD00419,CUST0129,PROD042,2,2025-04-17,Wire Transfer,Cancelled,81.62,Agnès,Rémy,31430b18b6332220690e0afae66a448fb7c68ab3bf5ffccbe94e955dc2832f74,Gauthier,France,Jeans Item 42,Bags,40.81
+ORD00420,CUST0040,PROD011,5,2025-04-09,Wire Transfer,Cancelled,199.8,Laetitia,Couturier,5eec31e1b5f36677d3a85951aed4381be1b9c0e4638766ba868efc057f17a029,Guillaume-les-Bains,France,Jackets Item 11,Unknown,39.96
+ORD00421,CUST0087,PROD037,1,2025-12-29,Card,Completed,238.84,Christophe,Brun,bddb2059fcc8f0e11b01850ade14e8d5b179ae17dd0a7be65a5ce0af5ad3cb9e,Pasquier,France,Bags Item 37,Jeans,238.84
+ORD00422,CUST0012,PROD042,5,2025-08-25,PayPal,Cancelled,204.05,Patricia,Lucas,7bfd767b41eff18cfe96e3fdecb4bc86da6f2a03303b03558860185e0d2fe67b,Sainte Brigitte,France,Jeans Item 42,Bags,40.81
+ORD00423,CUST0054,PROD050,5,2026-01-04,PayPal,Cancelled,130.9,Thierry,Laroche,f668a282ad3e833ec0eb3511e181abd6aedebde94bf1297b86b5230e53607868,Martel,France,Shoes Item 50,Bags,26.18
+ORD00424,CUST0164,PROD002,4,2026-02-05,Wire Transfer,Cancelled,747.0,Patricia,Leclerc,5a17475d8b4a4d823969a48e4dae08e836a88ed66d5d88b48aab8530549335da,Hoarauboeuf,France,Bags Item 2,Bags,186.75
+ORD00425,CUST0075,PROD042,3,2025-12-06,PayPal,Completed,122.43,Margaud,Allain,15f636d8d8c1a8c99a398effa011891bb894ab217f8ddebe3ae36c2b88441c59,Saint Geneviève-sur-Mer,France,Jeans Item 42,Bags,40.81
+ORD00426,CUST0176,PROD026,3,2025-04-12,PayPal,Completed,317.58,Pauline,Boutin,3d9993501cf080f945ae29e1ea388b9ee3b6021f83b77c85257ca428195fcffb,Lefebvrenec,France,Jackets Item 26,Jeans,105.86
+ORD00428,CUST0124,PROD030,2,2025-08-07,PayPal,Cancelled,273.98,Franck,Langlois,72441a6d517fd15c903f94638bde1a1c3128e35439224416c0e1fa630e4c21c3,Lopes,France,Jeans Item 30,Jackets,136.99
+ORD00429,CUST0037,PROD021,3,2025-12-08,Wire Transfer,Pending,621.69,Paul,Vaillant,431a0d0272528e603287beae45825b13a4a6c73c2b74ae2ae94a5670c16984c2,Gérard,France,Shoes Item 21,Bags,207.23
+ORD00430,CUST0103,PROD009,3,2025-07-02,Wire Transfer,Cancelled,96.78,Vincent,Blot,29f91114ef78946ee181b45ad3c21eb6b9b4ea41e841713c5f8bdc94cccc29c9,Besnard,France,Accessories Item 9,Shoes,32.26
+ORD00431,CUST0028,PROD021,2,2025-11-24,PayPal,Completed,414.46,Adrien,Denis,2ffbd5ebd8ba363fbd09bff51bab92e2a0dc2c3d4a99b9fc268392fb624db2dc,Briand,France,Shoes Item 21,Bags,207.23
+ORD00432,CUST0069,PROD029,2,2025-06-25,Card,Completed,50.5,Marthe,Tanguy,2d25aba2ce0d5dcc60ebc3883b08869a704bec56fb923064ba978b6ad546e40d,Saint Frédérique,France,Jackets Item 29,Jeans,25.25
+ORD00433,CUST0013,PROD019,4,2025-11-06,Wire Transfer,Pending,196.88,Matthieu,Guillou,,Benoit,France,Jeans Item 19,Bags,49.22
+ORD00434,CUST0064,PROD011,3,2025-06-02,Wire Transfer,Cancelled,119.88,David,Pineau,6627d3bad7cf76523f0096e5439ce09189b337d9cab163c67fbc99ee011fd83f,Foucherboeuf,France,Jackets Item 11,Unknown,39.96
+ORD00435,CUST0081,PROD013,2,2025-12-26,PayPal,Cancelled,297.12,Michelle,Humbert,916538ef0a1016a08142879e6792d835caefa78cda207519dcaddc452151ef33,Mercier,France,Jeans Item 13,Accessories,148.56
+ORD00436,CUST0120,PROD032,3,2026-01-11,PayPal,Completed,110.31,Jérôme,Antoine,10ae5af9100c4aebf9a19a804e3a8a5c48c08669a386a44c1f772f642fb6cc23,Saint Zoé,France,Accessories Item 32,Accessories,36.77
+ORD00437,CUST0024,PROD026,5,2025-08-27,PayPal,Completed,529.3,Marthe,Bruneau,8bba69ecdf91a3c0cc2d9d3900f4a37e6ac2c05edec158f5c2d4e4f958333e48,Chartier,France,Jackets Item 26,Jeans,105.86
+ORD00438,CUST0056,PROD038,3,2025-04-11,Card,Completed,263.4,Julien,Wagner,b8c52b6d4019885b2e355fff1b45dc9e8e24e2e6966c6d459222fe9c3c233b90,Sainte Madeleine,France,Shoes Item 38,Jeans,87.8
+ORD00439,CUST0073,PROD032,5,2025-07-07,Wire Transfer,Cancelled,183.85,Pauline,Gaudin,f514318722f8f341e795cdee382cb109f5c452c412fbfa6ac457116466c71f71,Sainte Monique,France,Accessories Item 32,Accessories,36.77
+ORD00440,CUST0121,PROD019,5,2026-03-13,Card,Completed,246.1,Julie,Barbe,9797478d1fa2609ae0d0f6885e903ecbf3e081ab7f318ef22a3b7c8db683e5d5,Duhamel,France,Jeans Item 19,Bags,49.22
+ORD00441,CUST0111,PROD009,3,2025-12-30,Wire Transfer,Pending,96.78,Adélaïde,Bailly,48edbf34db8fbc2c7e0824acab3d744aab36036a57bbb5d76cb53e8b6d19978e,Saint Nathalie,France,Accessories Item 9,Shoes,32.26
+ORD00442,CUST0196,PROD026,3,2025-09-02,Card,Pending,317.58,Madeleine,Dupont,e4e3e969ee733ce4305cb6cac301e9a80c945034bc06a172786dc60f64212482,Hoarau-sur-Mer,France,Jackets Item 26,Jeans,105.86
+ORD00443,CUST0014,PROD037,5,2026-02-18,Card,Pending,1194.2,Julien,Seguin,f1047b9f52c4cd71c318c0e950458259c270e1d70a4dc09c2370e44d1e29b415,Guérin-sur-Maréchal,France,Bags Item 37,Jeans,238.84
+ORD00444,CUST0142,PROD019,1,2025-12-19,PayPal,Cancelled,49.22,Roland,Didier,ffc6250087f8bb2ad30d878e56b2bfabb8354a6b040749529fa8b586526265f8,ArnaudVille,France,Jeans Item 19,Bags,49.22
+ORD00445,CUST0116,PROD049,5,2025-09-05,PayPal,Cancelled,135.2,Jeannine,Foucher,7cb2ec8e1b2414faf9c0e31b3ae6969c0c13038ac733edf57e2782c7bf13bf23,Baron-sur-Besnard,France,Bags Item 49,Shoes,27.04
+ORD00446,CUST0175,PROD040,1,2025-12-23,Card,Completed,67.81,Victoire,Richard,b3482e9f21f5dcbe0162433791f380faffcf3f67b0b829272f52d5cae2ec778d,Goncalves-sur-Gallet,France,Bags Item 40,Shoes,67.81
+ORD00447,CUST0101,PROD024,3,2025-06-20,Wire Transfer,Pending,220.71,Bertrand,Paris,ac08793ad04f3cc18a7b95aad86747e82f5dfc442c6d6c541de6a27e079c6381,Bouvet,France,Jackets Item 24,Bags,73.57
+ORD00448,CUST0194,PROD010,2,2025-05-05,Wire Transfer,Cancelled,309.78,Jérôme,Hamon,5a0643142a1bf6698da3650f51c4dcd55e90faa0346e6ddf248ae33e5e40884b,Roux,France,Accessories Item 10,Accessories,154.89
+ORD00449,CUST0103,PROD033,1,2025-06-08,Card,Completed,10.78,Vincent,Blot,29f91114ef78946ee181b45ad3c21eb6b9b4ea41e841713c5f8bdc94cccc29c9,Besnard,France,Bags Item 33,Jackets,10.78
+ORD00450,CUST0036,PROD046,3,2025-11-27,PayPal,Cancelled,677.73,Mathilde,Pages,ee32d5916fccaef86b479d176106dbf57e39ef5ca89328f239e7b4ea4a3b6b7a,Gosselin,France,Accessories Item 46,Jackets,225.91
+ORD00451,CUST0117,PROD010,5,2025-12-14,Wire Transfer,Completed,774.45,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Accessories Item 10,Accessories,154.89
+ORD00452,CUST0084,PROD040,3,2025-03-19,Card,Pending,203.43,Bernadette,Letellier,2975bfc2e29f8ee19ba7cd1f596da8fae62cf4310b8a4029c6c7a75552b84e1d,Noël,France,Bags Item 40,Shoes,67.81
+ORD00453,CUST0158,PROD048,3,2025-04-28,Wire Transfer,Pending,428.82,Michel,Guérin,8c7c58669a222b5946eb17675c19b10b19401a2207824d73b60ac3c3f317da9d,MendèsBourg,France,Shoes Item 48,Jeans,142.94
+ORD00454,CUST0130,PROD033,5,2025-11-10,PayPal,Cancelled,53.9,Joseph,Hardy,8b4d0b05b42883ef08f0daba77b4543d43a9b7ee76a851e25609defb9a84b115,Guillou,France,Bags Item 33,Jackets,10.78
+ORD00455,CUST0145,PROD020,4,2025-11-19,Card,Pending,250.84,Agathe,Petitjean,cf2da985fc661e343950a2231fd5da1a6370110677608adec8522c1ea9baac6d,Renard-sur-Andre,France,Accessories Item 20,Jeans,62.71
+ORD00456,CUST0085,PROD044,1,2025-12-28,PayPal,Cancelled,232.94,Grégoire,Dumont,c9e054fa08df6d54c43fc57b85bd168dad75313dde3497d00fa3d99af76a158e,Humbert-sur-Lemoine,France,Jackets Item 44,Bags,232.94
+ORD00457,CUST0079,PROD047,1,2025-11-05,Wire Transfer,Pending,63.93,Augustin,Bonnet,34d06ea95f04355c3f4bc36970f64aa77a9410b219f8f5c64a87f376551c6f0e,Saint Madeleine-les-Bains,France,Shoes Item 47,Bags,63.93
+ORD00458,CUST0068,PROD042,5,2026-01-29,Wire Transfer,Completed,204.05,Gilbert,Chauvin,7ba8b9445733a691d6187a42e003bf96018ab1fd99825ea69f4b916a4b5aa468,Vallet-la-Forêt,France,Jeans Item 42,Bags,40.81
+ORD00460,CUST0135,PROD041,5,2025-06-25,PayPal,Completed,928.3,Odette,Faivre,fa7a581cd444e5907a198f0c76c0850c409b6a9671fa3b98fe55d71075146a1b,Weberboeuf,France,Shoes Item 41,Shoes,185.66
+ORD00461,CUST0175,PROD016,1,2025-08-17,Wire Transfer,Cancelled,118.82,Victoire,Richard,b3482e9f21f5dcbe0162433791f380faffcf3f67b0b829272f52d5cae2ec778d,Goncalves-sur-Gallet,France,Jackets Item 16,Accessories,118.82
+ORD00462,CUST0029,PROD013,1,2026-02-03,PayPal,Pending,148.56,Julie,Lesage,0597bf2930cb7357f836f726d1fe229e2054f47dfe3f6d86fcfefa3da00101e4,Guibert,France,Jeans Item 13,Accessories,148.56
+ORD00463,CUST0108,PROD010,4,2025-05-19,Wire Transfer,Completed,619.56,Émilie,Allain,1bc6231e47d68744859af239aed1ab495cfce48d9404475d40672a1f94429016,Sainte Audrey,France,Accessories Item 10,Accessories,154.89
+ORD00464,CUST0106,PROD033,5,2025-12-04,PayPal,Cancelled,53.9,Nicole,Garnier,fcf4ebd2038ec98a4852e9c3b61ad50cff3d86661e3890daf44bdf58bcc2a6e1,Saint Marianne-les-Bains,France,Bags Item 33,Jackets,10.78
+ORD00466,CUST0144,PROD021,4,2026-01-16,Wire Transfer,Pending,828.92,Émilie,Pinto,fff172795b4de3850dc61ca110dc3876a0440a94035d9edc700ff5c18f450bfb,Sainte ClémenceBourg,France,Shoes Item 21,Bags,207.23
+ORD00467,CUST0081,PROD012,4,2025-08-26,Wire Transfer,Pending,321.44,Michelle,Humbert,916538ef0a1016a08142879e6792d835caefa78cda207519dcaddc452151ef33,Mercier,France,Shoes Item 12,Jeans,80.36
+ORD00468,CUST0140,PROD023,3,2025-10-15,Wire Transfer,Pending,501.93,Pauline,Lebreton,9c61ff17122eba57c98f077fb631ca13cb57ae86cb24c29e6ce3606024ac207a,Saint StéphanieBourg,France,Accessories Item 23,Bags,167.31
+ORD00469,CUST0050,PROD016,3,2025-12-21,Wire Transfer,Pending,356.46,Jules,Lagarde,fe6e305ff89a56f26d52c78b73b44e12d73ddacf781dbe92425f40da3f19329a,Seguin-sur-Grondin,France,Jackets Item 16,Accessories,118.82
+ORD00470,CUST0058,PROD020,3,2025-07-26,Wire Transfer,Completed,188.13,Édith,Camus,8b1db413735322daa48cdd43a08357fe2a7b61b2bc503189085bebd2162229b8,Gauthier,France,Accessories Item 20,Jeans,62.71
+ORD00471,CUST0177,PROD046,4,2025-04-04,PayPal,Pending,903.64,Éléonore,Allain,428cf60b6a982a4dc188069995a89d0f129962f8c25c68f68d13d1f0a672198e,Garcia-sur-Duval,France,Accessories Item 46,Jackets,225.91
+ORD00472,CUST0090,PROD036,3,2025-05-27,PayPal,Completed,140.04,Gabrielle,Millet,15deeffc2d2a5141a05eec868bed78559dbed99960f04277cb89c3a1cd75f8a2,Morel-sur-Caron,France,Jeans Item 36,Bags,46.68
+ORD00473,CUST0147,PROD044,5,2025-05-29,PayPal,Pending,1164.7,Susanne,Riou,55fdb03cacc1c83e46c2166b9bbb03c544dcd89ee37c0e86ca1f0981e60e2a29,Royer-sur-Mahe,France,Jackets Item 44,Bags,232.94
+ORD00474,CUST0089,PROD050,2,2025-07-21,PayPal,Completed,52.36,Jacqueline,Blanchet,0530745328479b446454b94aa583a92cf93483386c9c26d0bafb3c0a3a745daf,Saint Astrid,France,Shoes Item 50,Bags,26.18
+ORD00475,CUST0074,PROD046,1,2025-12-09,PayPal,Pending,225.91,Renée,Jourdan,f3cad7199fde6771bfc521a0b23ebacfa10656f899391cce68de5eef66d01935,Munoz,France,Accessories Item 46,Jackets,225.91
+ORD00476,CUST0168,PROD017,4,2025-12-11,Card,Completed,381.04,Josette,De Oliveira,b029958f506c175f8620cf21b1f59c8660ee7996aa2bcf5a3d23cfef20de98f2,Alves-les-Bains,France,Bags Item 17,Accessories,95.26
+ORD00477,CUST0138,PROD018,5,2025-04-17,Wire Transfer,Pending,780.95,Philippine,Lesage,c7466c0b0851ea7a65cfcf0b81bae123fb457b50322994593fd7cfc091e25ee0,Saint Hélène,France,Accessories Item 18,Shoes,156.19
+ORD00478,CUST0036,PROD007,5,2025-12-05,Wire Transfer,Cancelled,960.55,Mathilde,Pages,ee32d5916fccaef86b479d176106dbf57e39ef5ca89328f239e7b4ea4a3b6b7a,Gosselin,France,Accessories Item 7,Shoes,192.11
+ORD00479,CUST0062,PROD016,1,2025-03-22,Wire Transfer,Cancelled,118.82,Léon,Brunet,082881c5bb84550e3f0fe9cb8ff855a0d700102f9b88869cda9bd6d120a371e5,Vidalboeuf,France,Jackets Item 16,Accessories,118.82
+ORD00480,CUST0058,PROD041,2,2025-12-08,Card,Completed,371.32,Édith,Camus,8b1db413735322daa48cdd43a08357fe2a7b61b2bc503189085bebd2162229b8,Gauthier,France,Shoes Item 41,Shoes,185.66
+ORD00481,CUST0106,PROD022,4,2025-10-13,Card,Cancelled,103.56,Nicole,Garnier,fcf4ebd2038ec98a4852e9c3b61ad50cff3d86661e3890daf44bdf58bcc2a6e1,Saint Marianne-les-Bains,France,Jackets Item 22,Accessories,25.89
+ORD00482,CUST0198,PROD009,1,2025-09-01,Wire Transfer,Completed,32.26,Lucy,Benoit,49a5065a7692175987de9c2914ee4498f5bd2c6bef3f6e695aced5f92b610874,Salmon-sur-Merle,France,Accessories Item 9,Shoes,32.26
+ORD00483,CUST0105,PROD042,4,2026-02-08,PayPal,Cancelled,163.24,Luce,Launay,6a314a1dea8e21a6bc34c1dc6133ca04e50dea97390ca759011ef82b2e358791,Langlois,France,Jeans Item 42,Bags,40.81
+ORD00484,CUST0052,PROD049,3,2025-08-06,PayPal,Pending,81.12,Sébastien,Delahaye,97fa5906a638d59fb4ee9bf6a12008b7f5430015a7b7145514a72a42666caccc,Nguyen,France,Bags Item 49,Shoes,27.04
+ORD00486,CUST0060,PROD035,1,2025-04-17,Card,Pending,212.0,Alexandrie,Besnard,901a895dfbdc8829ff025da80956ae2b2de39b7a4eda5e7a74ae238550f04bf9,Barthelemy,France,Shoes Item 35,Accessories,212.0
+ORD00487,CUST0046,PROD003,4,2026-01-25,PayPal,Completed,606.88,Pierre,Dumas,12c017138df758c1ce20c836d831a6f3d492cec20386bd548e74d368b81c90f3,Vallet,France,Jeans Item 3,Shoes,151.72
+ORD00488,CUST0192,PROD019,1,2026-01-24,Card,Pending,49.22,Antoine,Carlier,5242a7fc0961efab5e4c7513933d88ca12d140bb85ff737c03f4359f22881e1f,Blondelnec,France,Jeans Item 19,Bags,49.22
+ORD00489,CUST0146,PROD039,1,2025-05-09,PayPal,Pending,220.89,Marc,Philippe,f78340e596c44189efd2e608c934e5375e9242443cb9fd834503ac1eb92c16ab,Besson-la-Forêt,France,Shoes Item 39,Accessories,220.89
+ORD00490,CUST0117,PROD042,5,2026-03-09,Wire Transfer,Pending,204.05,Stéphane,Lecoq,b9eb009b81fbfa81df26c249ba36147cd13f2b4cd7ee336a4e1dfcfd75b3e83e,Lambert,France,Jeans Item 42,Bags,40.81
+ORD00491,CUST0035,PROD033,4,2025-08-06,PayPal,Completed,43.12,Isaac,Lemoine,3ae878086f3a66d9fd14fa79acf6b6aef16ec35e97fd163c7becb995c1e730e0,Saint CapucineBourg,France,Bags Item 33,Jackets,10.78
+ORD00492,CUST0029,PROD022,2,2025-12-03,Wire Transfer,Pending,51.78,Julie,Lesage,0597bf2930cb7357f836f726d1fe229e2054f47dfe3f6d86fcfefa3da00101e4,Guibert,France,Jackets Item 22,Accessories,25.89
+ORD00493,CUST0166,PROD017,2,2025-07-23,Card,Cancelled,190.52,Simone,Paris,51deab053ae1895478aa796a429e7051cee66f11d212aae61c6316c19e176479,LopesBourg,France,Bags Item 17,Accessories,95.26
+ORD00494,CUST0087,PROD019,5,2025-10-14,Wire Transfer,Completed,246.1,Christophe,Brun,bddb2059fcc8f0e11b01850ade14e8d5b179ae17dd0a7be65a5ce0af5ad3cb9e,Pasquier,France,Jeans Item 19,Bags,49.22
+ORD00495,CUST0045,PROD040,4,2025-05-25,PayPal,Cancelled,271.24,Raymond,Moreau,724da09f7dbcc0c711f307ad854b1bf61cf02ed61a647251b152a63f96552b65,Langlois,France,Bags Item 40,Shoes,67.81
+ORD00496,CUST0084,PROD006,4,2025-09-10,Wire Transfer,Completed,251.64,Bernadette,Letellier,2975bfc2e29f8ee19ba7cd1f596da8fae62cf4310b8a4029c6c7a75552b84e1d,Noël,France,Jeans Item 6,Jackets,62.91
+ORD00497,CUST0048,PROD009,4,2025-11-10,PayPal,Completed,129.04,Élodie,Schmitt,c59dc1faca7e8ac45b90b2c6914ac464e3430ea443ab95a65d2a9e4df3291182,Dubois-sur-Mer,France,Accessories Item 9,Shoes,32.26
+ORD00498,CUST0002,PROD017,4,2025-10-26,Card,Pending,381.04,Juliette,Pelletier,06c30b9755a112b8f77b6d7dcf97068f0f9f3c9c1c563acc09da2138a267dc4d,Chevalier,France,Bags Item 17,Accessories,95.26
+ORD00499,CUST0193,PROD018,3,2026-03-06,PayPal,Cancelled,468.57,Nath,Paul,171f6e4e4f3b2e8400f94d187ac829474146d50ce8c54326dd8a3752f0d311dc,Pierre-la-Forêt,France,Accessories Item 18,Shoes,156.19
+ORD00500,CUST0186,PROD037,1,2025-08-06,PayPal,Cancelled,238.84,Gabriel,Pages,b8597d52b8a287f5efaf80ad20d8f8ddd5a37f485a7c9c528d11ba75cf84a356,Sainte Christiane,France,Bags Item 37,Jeans,238.84

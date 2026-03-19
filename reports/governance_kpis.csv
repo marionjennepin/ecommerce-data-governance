@@ -1,0 +1,11 @@
+kpi_name,value
+total_rules,14.0
+passed_rules,2.0
+failed_rules,12.0
+dq_success_rate_pct,14.29
+raw_records,750.0
+curated_records,729.0
+rejected_records,21.0
+pii_fields_identified,6.0
+critical_tables,3.0
+monitored_tables,3.0
