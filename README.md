@@ -106,6 +106,7 @@ Le projet permet de :
 
 
 ## Structure du projet : 
+```
 ecommerce-data-governance/
 │
 ├── data/
@@ -135,5 +136,6 @@ ecommerce-data-governance/
 │
 ├── requirements.txt
 └── README.md
+```
 
 
